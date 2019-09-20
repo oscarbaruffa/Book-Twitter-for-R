@@ -1,0 +1,18 @@
+# Your first tweets
+Ok ready?
+
+Try something or just say yay my first tweet!
+
+Now try another, say something like hey @oscarb I'm trying this twitter thing out. 
+
+I'll get a notification that I've been mentioned. 
+
+
+
+Now try use a hashtag. 
+
+'Wow #rstats is awesome!" Now people browsing this hashtag will see it more easily. 
+
+You'll get the hang of this in no-time.
+
+We'll dissect some tweets later

@@ -1,0 +1,43 @@
+# Read the feed
+
+So know you're following some folks. Let's look at your feed. 
+
+<<feed gif>>
+
+From time to time Twitter modifies the algorithms for what shows up in your feed, but here are the main things that causes a Tweet to enter it. 
+
+Bear with us here!
+
+1. Someone you follow posts a tweet.
+
+<<posted tweet>
+    
+* Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. 
+
+<<retweet without comment>>
+<<retweet with comment>>
+
+* Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed. 
+
+<liekd tweet>
+
+* Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
+
+<reply to tweet>>
+
+* Posts from account that you don't follow but is followed by a lot of the people who you follow and that post is gettign a lot of interaction either from likes, retweets or comments.
+<high engagemnt tweet>
+
+* Advertisments. These have a little "promoted" tweet indicator. 
+
+<show promoted
+
+
+There's also two ways that you feed gets ordered. Either migically or chronologially.  
+Soem people have a preference, others don't. 
+
+There's the "magic" way which is probably the default setting. 
+This tries to prioritise posts that you might like, regardless of chronological order. 
+If like me you prefer more chronological posts, turn this off like this.
+
+<turn off magic timelines>>

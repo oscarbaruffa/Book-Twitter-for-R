@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-## The warmest fo welcomes to you!
+## The warmest of welcomes to you!
 The R community is very active on twitter. 
 You can learn a lot about the language, about new approaches to problems, make friends and even land a job or next contract. 
 It's a real-time pulse of the R community. 

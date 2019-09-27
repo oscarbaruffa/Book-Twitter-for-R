@@ -19,3 +19,5 @@ It's good to be opinionated on what you think it is good/bad/best to do, but let
 
 I am busy learning the basics of github. I suggest you keep Pull Requests short at first so that I can figure out how to merge them. I may end up accidently deleting somethign so rather don't do a whole lot of work before putting in the first PR. 
 
+Try write once sentence per line in the rmarkdown files - apparently this makes version cotnrol a bit easier. 
+

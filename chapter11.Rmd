@@ -1,0 +1,29 @@
+# Twitter oddities 
+
+There are some accounts that may look a bit odd or behavour strangely. 
+We'll introduce some of these to you now:
+
+NOTE: need examples of each
+
+## Bot accounts
+Humans to do  not actively tweet from bot accounts - they are set up to do so automatically. 
+
+### Benign bots
+Tweets are related to things liek the weather forecasts, or pehrpas soem mundane activity that soemwhere, soemone, finds useful.
+
+### Funny bots
+Tweets are usally humourous or related to some sort of activity like reply to tweets with words replaced by soemthign humorous. 
+
+
+### Malicious bots
+Could be some sort of autmated scripts posign as humans, usually designed to invoke nager by comemting rudely about soem pilocital topic and often repleis to popluar accounts. 
+Teh idea is that human followers see this and are infleucne by them. 
+You can spot these usally becasue you can't belive a real person woudl have such an accoutn - off image, weird auto--generated username, very few followers, very few tweets. 
+Twitter's algorithms are gettign much better at shutting these accoutns down than in the past. 
+
+### Trolls
+Just your regular real world human troll. Block them. 
+
+### Dead accounts
+You might fidn you want ot follow your favoruite band or some person who hasn't tweeted in ages, or never tweeted. Thsi happens and these accoutns are someimes created to be able to claim the twitter tag which may have some significance to the owner. 
+

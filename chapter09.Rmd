@@ -1,7 +1,15 @@
-# Suggested accounts to follow
+# Let's dissect some tweets
 
-Will keep adding to this list
-Data helpers
+Examples and what's going on
 
-@r4ds
-Thomas mocky
+Lots of rwteets, likes comments
+
+Promotion and good news
+
+Help/humour
+
+Tech Questions
+
+Poll
+
+Info sharing

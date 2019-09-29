@@ -1,18 +1,15 @@
-# Your first tweets
-Ok ready?
+# #Hashtags, what are they good (quite a lot actually)
 
-Try something or just say yay my first tweet!
+So youve noticed huh
 
-Now try another, say something like hey @oscarb I'm trying this twitter thing out. 
+Topics sarcasm
 
-I'll get a notification that I've been mentioned. 
+Try keep hashtags to 3 or less
 
+RStats
 
+Tidytuesday
 
-Now try use a hashtag. 
+Rtip
 
-'Wow #rstats is awesome!" Now people browsing this hashtag will see it more easily. 
-
-You'll get the hang of this in no-time.
-
-We'll dissect some tweets later
+Events

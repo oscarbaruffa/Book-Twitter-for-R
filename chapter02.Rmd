@@ -1,43 +1,80 @@
-# Read the feed
+# Follow some more folks
 
-So know you're following some folks. Let's look at your feed. 
+The key to making Twitter work for you is to follow accounts that you find interesting. 
+Accounts can be owned either by individuals or admistered by companies. 
 
-<<feed gif>>
+Twitter will often recommend accounts for you to follow. 
+Some may be relevant, so go ahead and follow them. 
+Over time, you'll find that you follow more and more people. 
 
-From time to time Twitter modifies the algorithms for what shows up in your feed, but here are the main things that causes a Tweet to enter it. 
+## Following people and organisations
 
-Bear with us here!
+You can find people to follow by searching for their Twitter handle. 
+This is a unique identifier associated with each account. 
 
-1. Someone you follow posts a tweet.
-
-<<posted tweet>
+<<pic of twitter handle>>
     
-* Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. 
-
-<<retweet without comment>>
-<<retweet with comment>>
-
-* Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed. 
-
-<liekd tweet>
-
-* Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
-
-<reply to tweet>>
-
-* Posts from account that you don't follow but is followed by a lot of the people who you follow and that post is gettign a lot of interaction either from likes, retweets or comments.
-<high engagemnt tweet>
-
-* Advertisments. These have a little "promoted" tweet indicator. 
-
-<show promoted
 
 
-There's also two ways that you feed gets ordered. Either migically or chronologially.  
-Soem people have a preference, others don't. 
+We've listed a few accounts for you to follow and get some practice at the same time. 
+These are some prominent members of the R community and they post good stuff. 
+Go ahead and search for these accounts and follow them. Let's walk you through the first one. 
 
-There's the "magic" way which is probably the default setting. 
-This tries to prioritise posts that you might like, regardless of chronological order. 
-If like me you prefer more chronological posts, turn this off like this.
+Search for Hadley Whickham by typing **@hadleywickham** in the search bar. 
+Hadley's profile will come up and you can select the **follow** button.
 
-<turn off magic timelines>>
+
+<image of follow>
+    
+Well done! 
+You've followed your first person :).
+
+Now go ahead and follow a few other people:
+
+* Mara Averick: **@dataandme**
+* Caitlin Hudon: **@beeonaposy**
+* Thomas Mock: **@thomas_mock**
+* Gina Reynolds: **@EvaMaeRey**
+
+
+There are also great organisational accounts:
+
+* R4DS online learning community: **@R4DScommunity**
+* R-Ladies Global: **@RLadiesGlobal**
+
+
+If you're like me, you may start remembering people by their Twitter handle rather than their actual name!
+
+Oh yes, you can also go ahead and follow me if you want :). 
+
+Oscar Baruffa: **@oscar_b123**
+
+
+Now that you're following people your feed will be populated by what they *post*, what they *like* and *re-tweet*.
+We'll dive a little deeper into how the feed works a little later.  
+
+But first: 
+
+### A note on your own follower count
+
+
+I can't stress this enough. 
+> Ignore your own follower count. 
+It's a great boost to ego as your follower number grows, but the benefit you get comes from following other accounts. 
+You may get some followers yourself but that has no bearing on how much value you'll get from using Twitter.
+
+## How to unfollow people
+
+When you first signed up to Twitter, you were prompted to *follow* some popular accounts and you can now practice *unfollowing* on these.
+
+First let's go back to those accounts you followed earlier. Your accounts will be different from these but the steps remain the same. 
+
+<show unfollow steps, select profile, select followed accoutns, unfollwo uccoonuts>>
+
+You can also *unfollow* directly from your feed lithis this.
+
+<show unfollow steps from feed>
+
+
+Well done! You're already getting the hang of this. Let's have a closer look at how your Twitter feed works. 
+

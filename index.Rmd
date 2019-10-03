@@ -2,8 +2,18 @@
 title: "Twitter for R programmers"
 author: "Oscar Baruffa"
 date: "23/08/2019"
-output: bookdown::gitbook
+output: 
+  bookdown::gitbook:
+    config:
+      toc:
+        before: |  
+          <br/><center><b><a href="./index.html">&nbsp&nbspTwitter for R programmers</a></b></center></li>
+        after: |
+          <li><center><a href="https://bookdown.org/yihui/bookdown/">
+          Published with bookdown</a></center></li>
+        
 site: "bookdown::bookdown_site"
+delete_merged_file: true
 ---
 
 ```{r setup, include=FALSE}
@@ -25,9 +35,9 @@ It's a real-time pulse of the R community.
 
 ![](images/welcome_to_rstats_twitter.png)
 
-Artwork by [@allison_horst](https://twitter.com/allison_horst) 
+Artwork by [\@allison_horst](https://twitter.com/allison_horst) 
 
-Start by downloading the app or visiting the [desktop site](https://twitter.com/). 
+Start by downloading the Twitter app or visiting the [desktop site](https://twitter.com/). 
 Create an account and you're good to go.
 
 When your first start, you'll be prompted to follow some popular accounts. Go ahead and select a few. 

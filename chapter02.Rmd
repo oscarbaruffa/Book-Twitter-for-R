@@ -20,7 +20,7 @@ We've listed a few accounts for you to follow and get some practice at the same 
 These are some prominent members of the R community and they post good stuff. 
 Go ahead and search for these accounts and follow them. Let's walk you through the first one. 
 
-Search for Hadley Whickham by typing **@hadleywickham** in the search bar. 
+Search for Hadley Wickham by typing **[\@hadleywickham](https://twitter.com/hadleywickham){target="_blank"}** in the search bar. 
 Hadley's profile will come up and you can select the **follow** button.
 
 
@@ -31,16 +31,16 @@ You've followed your first person :).
 
 Now go ahead and follow a few other people:
 
-* Mara Averick: **@dataandme**
-* Caitlin Hudon: **@beeonaposy**
-* Thomas Mock: **@thomas_mock**
-* Gina Reynolds: **@EvaMaeRey**
+* Mara Averick: **[\@dataandme](https://twitter.com/dataandme){target="_blank"}**
+* Caitlin Hudon: **[\@beeonaposy](https://twitter.com/beeonaposy){target="_blank"}**
+* Thomas Mock: **[\@thomas_mock](https://twitter.com/thomas_mock){target="_blank"}**
+* Gina Reynolds: **[\@EvaMaeRey](https://twitter.com/EvaMaeRey){target="_blank"}**
 
 
 There are also great organisational accounts:
 
-* R4DS online learning community: **@R4DScommunity**
-* R-Ladies Global: **@RLadiesGlobal**
+* R4DS online learning community: **[\@R4DScommunity](https://twitter.com/R4DScommunity){target="_blank"}**
+* R-Ladies Global: **[\@RLadiesGlobal](https://twitter.com/RLadiesGlobal){target="_blank"}**
 
 
 If you're like me, you may start remembering people by their Twitter handle rather than their actual name!

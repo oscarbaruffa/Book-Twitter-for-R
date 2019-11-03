@@ -7,9 +7,14 @@ Topics sarcasm
 Try keep hashtags to 3 or less
 
 RStats
+![](images/search_hashtags_rstats.jpg)
 
 Tidytuesday
+![](images/search_hashtags_tidyTuesday.jpg)
+
 
 Rtip
 
-Events
+Events 
+![](images/search_hashtags_conference.jpg)
+

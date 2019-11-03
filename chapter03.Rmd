@@ -10,27 +10,32 @@ Bear with us here!
 
 1. Someone you follow posts a tweet.
 
-<<posted tweet>
+* Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
+
+In the example below, ALison posted a tweet and Sil replied to it, and I follow both of them. 
+
+![](images/handle.png)
     
 * Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. 
 
-<<retweet without comment>>
-<<retweet with comment>>
+Here you can see Zoe retweet this tweet (without commenting) from Programming Wisdom.
+![](images/retweet.jpg)
+
+Here we see Bob retweeted a tweet by Malcolm, and commented on it. 
+![](images/feed_share_info.jpg)
 
 * Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed. 
+This tweet showed in my feed because Chelsea liked a tweet from Eli
+![](images/feed_liked_tweet.jpg)
 
-<liekd tweet>
 
-* Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
-
-<reply to tweet>>
 
 * Posts from account that you don't follow but is followed by a lot of the people who you follow and that post is gettign a lot of interaction either from likes, retweets or comments.
 <high engagemnt tweet>
 
 * Advertisments. These have a little "promoted" tweet indicator. 
 
-<show promoted
+
 
 
 There's also two ways that you feed gets ordered. Either migically or chronologially.  

@@ -7,31 +7,22 @@ I'm not sure if there's a better way to track items to do, but here are some:
 * Add example images
 * Change use of "I" to "we" where needed
 * Add authors section
+* Figure out how to change image sizes
 
 ## Example images needed - all to be R community oriented
 1.  Recommended accoutns to follow
-1. Twitter handle
-1. Search showing Hadley whickhams account as a result
 1. Unfollow via followed accounts
 1. Unfollow via feed
 1. Twitter feed - generic
-1. Posted tweet (nirmal tweet)
-1. Retweet without comment
-1. Retweet with comment
-1. Liked-tweet
 1. Lots of interaction tweet
 1. Promoted tweet
 1. Turn off magic feed
-1. Hashtags - rstats
-1. Hashtag - tidy tuesday
-1. Hashtag conference
 1. Hashtags - too many
 1. Search by hashtag
 1. How to tweet
 1. Hey @verleee
 1. SHow notification
 1. Thread - read
-1. Thread - create
 1. Block account
 1. Steps to get to Mute words
 1. My mute words

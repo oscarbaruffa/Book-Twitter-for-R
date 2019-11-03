@@ -12,7 +12,7 @@ Over time, you'll find that you follow more and more people.
 You can find people to follow by searching for their Twitter handle. 
 This is a unique identifier associated with each account. 
 
-<<pic of twitter handle>>
+![](images/handle.png)
     
 
 
@@ -24,7 +24,7 @@ Search for Hadley Wickham by typing **[\@hadleywickham](https://twitter.com/hadl
 Hadley's profile will come up and you can select the **follow** button.
 
 
-<image of follow>
+![](images/search_hadley.jpg)
     
 Well done! 
 You've followed your first person :).

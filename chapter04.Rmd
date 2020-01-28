@@ -1,20 +1,23 @@
 # #Hashtags, what are they good (quite a lot actually)
 
-So youve noticed huh
+By now hashatsghave foudn their way across multile social media platforms. 
 
-Topics sarcasm
+Selecting any hashtag you see will take you to a list of tweets that feature that tag.
 
-Try keep hashtags to 3 or less
+Soem important one's for your R journey are:
 
-RStats
+
+## #RStats
+This is the most widely used hashtag by the R twitter community. 
 ![](images/search_hashtags_rstats.jpg)
 
-Tidytuesday
+## #Tidytuesday
+Every week there is a tidytuesday challenge posted. It's a dataset that everyone makes visualisations about and shares theier results (and often source code too!). This is a fun way to improve your own skills by learnign hwo other sdo things and practicing on interested data sets. 
 ![](images/search_hashtags_tidyTuesday.jpg)
 
 
-Rtip
+#Events
+One of the best aspects of twiitet is following news abotu events and conferences. Of of the most popular is RstudioConf. Teh hastag becomes really active leadign up to and durign the event.
 
-Events 
 ![](images/search_hashtags_conference.jpg)
 

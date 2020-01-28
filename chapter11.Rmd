@@ -17,8 +17,8 @@ Tweets are usally humourous or related to some sort of activity like reply to tw
 
 ### Malicious bots
 Could be some sort of autmated scripts posign as humans, usually designed to invoke nager by comemting rudely about soem pilocital topic and often repleis to popluar accounts. 
-Teh idea is that human followers see this and are infleucne by them. 
-You can spot these usally becasue you can't belive a real person woudl have such an accoutn - off image, weird auto--generated username, very few followers, very few tweets. 
+The idea is that human followers see this and are influenced by them. 
+You can spot these usally because you can't believe a real person woudl have such an account - off image, weird auto--generated username, very few followers, very few tweets. 
 Twitter's algorithms are gettign much better at shutting these accoutns down than in the past. 
 
 ### Trolls

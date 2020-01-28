@@ -12,7 +12,7 @@ Bear with us here!
 
 * Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
 
-In the example below, ALison posted a tweet and Sil replied to it, and I follow both of them. 
+In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them. 
 
 ![](images/handle.png)
     
@@ -31,7 +31,7 @@ This tweet showed in my feed because Chelsea liked a tweet from Eli
 
 
 * Posts from account that you don't follow but is followed by a lot of the people who you follow and that post is gettign a lot of interaction either from likes, retweets or comments.
-<high engagemnt tweet>
+<high engagement tweet>
 
 * Advertisments. These have a little "promoted" tweet indicator. 
 
@@ -39,7 +39,7 @@ This tweet showed in my feed because Chelsea liked a tweet from Eli
 
 
 There's also two ways that you feed gets ordered. Either migically or chronologially.  
-Soem people have a preference, others don't. 
+Some people have a preference, others don't. 
 
 There's the "magic" way which is probably the default setting. 
 This tries to prioritise posts that you might like, regardless of chronological order. 

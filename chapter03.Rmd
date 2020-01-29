@@ -14,11 +14,19 @@ Bear with us here!
 
 In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them. 
 
-![](images/handle.png)
+
+
+<center>
+![](images/handle.png){width=50%}
+</center>
+
+
     
 * Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. 
 
+
 Here you can see Zoe retweet this tweet (without commenting) from Programming Wisdom.
+<br/>
 ![](images/retweet.jpg)
 
 Here we see Bob retweeted a tweet by Malcolm, and commented on it. 

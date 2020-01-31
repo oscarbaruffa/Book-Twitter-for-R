@@ -13,3 +13,7 @@ Sign up for notifications about new R-releated content
 
 
 ## Veerle van Son
+
+Veerle created her Twitter account in 2012, barely used it for six years, and only started becoming active on Twitter in 2018 to be part of the #rstats Twitter goodness and to participate in #TidyTuesday.
+
+Her data blog can be found at [SurroundedByData.netlify.com](https://SurroundedByData.netlify.com){target="_blank"}

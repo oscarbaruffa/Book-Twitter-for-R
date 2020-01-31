@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > THIS BOOK IS UNDER CONSTRUCTION and I'm figuring a lot about version control while doing it
 
-You can subscribe to my [newsletter](https://tinyletter.com/OscarBaruffa) to be notified of major updates to the book. 
+You can subscribe to my [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
 
 ## The warmest of welcomes to you!
 The R community is very active on twitter. 
@@ -36,9 +36,9 @@ It's a real-time pulse of the R community.
 
 ![](images/welcome_to_rstats_twitter.png)
 
-Artwork by [\@allison_horst](https://twitter.com/allison_horst) 
+Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
 
-Start by downloading the Twitter app or visiting the [desktop site](https://twitter.com/). 
+Start by downloading the Twitter app or visiting the [desktop site](https://twitter.com/){target="_blank"}. 
 Create an account and you're good to go.
 
 When your first start, you'll be prompted to follow some popular accounts. Go ahead and select a few. 

@@ -1,6 +1,6 @@
 # Let's dissect some tweets
 
-Here are explanation of what is goign on, using some exampels of tweets you're liekly to see/.
+Here are explanation of what is going on, using some exampels of tweets you're likely to see.
 
 ## Viral tweet
 
@@ -9,11 +9,11 @@ This tweet has gone viral, with lots of retweets, comments and likes.
 
 
 ## Good news
-People love sharign good news on twitter, usually people gettign their PDH or tenure (lot sof academics use R)
+People love sharing good news on twitter, usually people gettign their PDH or tenure (lots of academics use R)
 
 
 ## Help and technical questions
-The R community loes helping out. Here's an exampel of peopel jumping in to answer a query. This doesn't _always_ happen, people are busy with their own lives, but it does happen a lot. Use th rstats hashtag to increase exposure of your r-rleated question. 
+The R community loves helping out. Here's an example of people jumping in to answer a query. This doesn't _always_ happen, people are busy with their own lives, but it does happen a lot. Use the rstats hashtag to increase exposure of your R-related question. 
 
 
 ## Poll

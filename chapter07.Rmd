@@ -1,6 +1,10 @@
 # Extra info
 
-Use this to add anythign else that might be improtant for people to know. 
+Use this to add anything else that might be improtant for people to know. 
+
+- Scheduling tweets (sending them out at a specific date and time)
+
+- Sending tweets from inside Rstudio
 
 
  

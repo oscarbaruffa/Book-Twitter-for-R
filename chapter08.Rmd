@@ -2,13 +2,13 @@
 
 I view Twitter like a garden that needs to be cultivated.
 
-Be comfortable with unfollowing people - be a bit ruthelss even.
+Be comfortable with unfollowing people - be a bit ruthless even.
 
 Block with abandon.
 
 ## Mute words
 
-This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of yoru feed. When people quote tweet then the mute doesn't pick those up.
+This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of your feed. When people quote tweet then the mute doesn't pick those up.
 
 My current mute list as of 31 January 2020
 * Republican

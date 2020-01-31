@@ -1,10 +1,10 @@
 # #Hashtags, what are they good (quite a lot actually)
 
-By now hashatsghave foudn their way across multile social media platforms. 
+By now hashatsghave found their way across multiple social media platforms. 
 
 Selecting any hashtag you see will take you to a list of tweets that feature that tag.
 
-Soem important one's for your R journey are:
+Some important one's for your R journey are:
 
 
 ## #RStats

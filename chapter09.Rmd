@@ -1,15 +1,24 @@
 # Let's dissect some tweets
 
-Examples and what's going on
+Here are explanation of what is goign on, using some exampels of tweets you're liekly to see/.
 
-Lots of rwteets, likes comments
+## Viral tweet
 
-Promotion and good news
+This tweet has gone viral, with lots of retweets, comments and likes. 
 
-Help/humour
 
-Tech Questions
 
-Poll
+## Good news
+People love sharign good news on twitter, usually people gettign their PDH or tenure (lot sof academics use R)
 
-Info sharing
+
+## Help and technical questions
+The R community loes helping out. Here's an exampel of peopel jumping in to answer a query. This doesn't _always_ happen, people are busy with their own lives, but it does happen a lot. Use th rstats hashtag to increase exposure of your r-rleated question. 
+
+
+## Poll
+Polls are usally quite fun and often informative. 
+
+## Info sharing
+Teh R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kdis have done to the living room, you name it. Caution, you may end up emaling yourself more resoruces than you'll ever be able to consume :).
+

@@ -2,7 +2,7 @@
 
 Tweet threads are one of the little gems of this microblogging platform. A thread is just a string of tweets all linked together by the author and will relet to a topic in some way. Here's how a thread shows up in you feed. 
 
-When composing a thread, usually people indicate thsi by startign it with [Thread] or 1/n or some other way to highlight it's a thread.
+When composing a thread, usually people indicate this by starting it with [Thread] or 1/n or some other way to highlight it's a thread.
 
 
 ![](images/tweet_thread_make.jpg)

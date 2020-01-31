@@ -8,9 +8,9 @@ Block with abandon.
 
 ## Mute words
 
-This is a really handy feature. Specifyign mute words keeps any tweets with those _mostly_ out of yoru feed. When people quote tweet then the mute doesn't pick those up.
+This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of yoru feed. When people quote tweet then the mute doesn't pick those up.
 
-My current mute list as of 1 September 2019
+My current mute list as of 31 January 2020
 * Republican
 * Dems
 * democrats

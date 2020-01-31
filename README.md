@@ -7,6 +7,38 @@ I'm not sure if there's a better way to track items to do, but here are some:
 * Add example images
 * Change use of "I" to "we" where needed
 * Add authors section
+* Figure out how to change image sizes
+
+## Example images needed - all to be R community oriented
+1.  Recommended accoutns to follow
+1. Unfollow via followed accounts
+1. Unfollow via feed
+1. Twitter feed - generic
+1. Lots of interaction tweet
+1. Promoted tweet
+1. Turn off magic feed
+1. Hashtags - too many
+1. Search by hashtag
+1. How to tweet
+1. Hey @verleee
+1. SHow notification
+1. Thread - read
+1. Block account
+1. Steps to get to Mute words
+1. My mute words
+1. High engagement - lots of lieks, tweets and comments (these all rstats spefiic)
+1. Promotions and good news
+1. Help
+1. Humor
+1. Tech question
+1. Poll
+1. Info sharing (maya averick example).
+1. Benign bot
+1. Funny bot
+1. Malicious bot
+1. Trolls
+1. Dead account
+
 
 ## Notes for contributors
 

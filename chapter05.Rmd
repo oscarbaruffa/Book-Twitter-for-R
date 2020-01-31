@@ -1,18 +1,19 @@
 # Your first tweets
-Ok ready?
+Enough of the tour, let's get you tweeting! 
 
-Try something or just say yay my first tweet!
+Select the compose tweet button and start typing - note you cant edit a tweet once it's posted. Don't worry, everyone has forgiven spellign msiatkes in tweets long ago :).
 
-Now try another, say something like hey @oscarb I'm trying this twitter thing out. 
+Say anythign you want, or if you're stuck for inspiration say "Yay! My first tweet!", or the ever famous, "Hello, world!". 
 
-I'll get a notification that I've been mentioned. 
-
+Now try another tweet, thsi time tagging people. Say something like "Hey @verlee @oscarb I'm trying this twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
 
 
 Now try use a hashtag. 
 
-'Wow #rstats is awesome!" Now people browsing this hashtag will see it more easily. 
+"Wow #rstats is awesome!" Now people browsing this hashtag are more liekly to see your tweet. 
 
 You'll get the hang of this in no-time.
 
-We'll dissect some tweets later
+We'll dissect some tweets later, but you get the idea.
+
+Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. 

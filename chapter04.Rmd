@@ -19,7 +19,15 @@ Tweet: https://twitter.com/zhiiiyang/status/1185328020745117698?s=20
 
 
 #Events
-One of the best aspects of Twitter is following news about events and conferences. Of of the most popular is RstudioConf. The hastag (#rstudioconf) becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of the what's going on during the conference. Tweets often contain take home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
+
+One of the best aspects of Twitter is following news about events and conferences. Of of the most popular is RstudioConf. The hashtag [#rstudioconf](https://twitter.com/search?q=%23rstudioconf){target="_blank"} becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of the what's going on during the conference. Tweets often contain take home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
+
+Other event hashtags:
+
+- #useR + year, eg. #useR2020
+- #eRum + year, eg. #eRum2020
+- #SatRday
+
 
 ![](images/search_hashtags_conference.jpg)
 

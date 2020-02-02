@@ -35,6 +35,7 @@ Now go ahead and follow a few other people:
 * Caitlin Hudon: **[\@beeonaposy](https://twitter.com/beeonaposy){target="_blank"}**
 * Thomas Mock: **[\@thomas_mock](https://twitter.com/thomas_mock){target="_blank"}**
 * Gina Reynolds: **[\@EvaMaeRey](https://twitter.com/EvaMaeRey){target="_blank"}**
+* Jenny Bryan: **[\@JennyBryan](https://twitter.com/JennyBryan){target="_blank"}**
 
 
 There are also great organisational accounts:
@@ -48,7 +49,7 @@ If you're like me, you may start remembering people by their Twitter handle rath
 Oh yes, you can also go ahead and follow me us you want :). 
 
 * Oscar Baruffa: **[\@oscarbaruffa](https://twitter.com/OscarBaruffa){target="_blank"}**
-* Veerle van Son: **[\@veerleevanson](https://twitter.com/veerlevanson){target="_blank"}** 
+* Veerle van Son: **[\@veerlevanson](https://twitter.com/veerlevanson){target="_blank"}** 
 
 
 Now that you're following people your feed will be populated by what they *post*, what they *like* and *re-tweet*.
@@ -70,9 +71,9 @@ When you first signed up to Twitter, you were prompted to *follow* some popular 
 
 First let's go back to those accounts you followed earlier. Your accounts will be different from these but the steps remain the same. 
 
-<show unfollow steps, select profile, select followed accoutns, unfollwo uccoonuts>>
+<show unfollow steps, select profile, select followed accoutns, unfollow accounts>>
 
-You can also *unfollow* directly from your feed lithis this.
+You can also *unfollow* directly from your feed like this.
 
 <show unfollow steps from feed>
 

@@ -1,25 +1,27 @@
 # Twitter oddities 
 
-There are some accounts that may look a bit odd or behavour strangely. 
+There are some accounts that may look a bit odd or behave strangely. 
 We'll introduce some of these to you now:
 
 NOTE: need examples of each
 
 ## Bot accounts
-Humans to do  not actively tweet from bot accounts - they are set up to do so automatically. 
+Humans to do not actively tweet from bot accounts - they are set up to do so automatically.
+
 
 ### Benign bots
-Tweets are related to things liek the weather forecasts, or pehrpas soem mundane activity that soemwhere, soemone, finds useful.
+Tweets are related to things like the weather forecasts, or perhaps some mundane activity that somewhere, someone, finds useful.
+
 
 ### Funny bots
-Tweets are usally humourous or related to some sort of activity like reply to tweets with words replaced by soemthign humorous. 
+Tweets are usally humourous or related to some sort of activity like reply to tweets with words replaced by something humorous. 
 
 
 ### Malicious bots
-Could be some sort of autmated scripts posign as humans, usually designed to invoke nager by comemting rudely about soem pilocital topic and often repleis to popluar accounts. 
+Could be some sort of automated scripts posing as humans, usually designed to invoke nager by commenting rudely about some political topic and often replies to popular accounts. 
 The idea is that human followers see this and are influenced by them. 
-You can spot these usally because you can't believe a real person woudl have such an account - off image, weird auto--generated username, very few followers, very few tweets. 
-Twitter's algorithms are gettign much better at shutting these accoutns down than in the past. 
+You can spot these usually because you can't believe a real person would have such an account - off image, weird auto--generated username, very few followers, very few tweets. 
+Twitter's algorithms are getting much better at shutting these accounts down than in the past. 
 
 ### Trolls
 Just your regular real world human troll. Block them. 

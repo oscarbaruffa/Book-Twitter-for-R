@@ -46,7 +46,7 @@ This tweet showed in my feed because Chelsea liked a tweet from Eli
 
 
 
-There's also two ways that you feed gets ordered. Either migically or chronologially.  
+There's also two ways that you feed gets ordered. Either magically or chronologically.  
 Some people have a preference, others don't. 
 
 There's the "magic" way which is probably the default setting. 

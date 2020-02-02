@@ -2,3 +2,7 @@
 
 Thank you for reading our guide and we hope this helps you take part in the wonderful R twitter community. 
 
+
+## Further reading
+
+- Analysing the R Twitterverse, a blogpost by Perry Stephenson: https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/

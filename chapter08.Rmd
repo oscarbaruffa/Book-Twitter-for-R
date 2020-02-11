@@ -1,16 +1,16 @@
 # Cultivating your magic garden - tips for a great experience
 
-I view Twitter like a garden that needs to be cultivated.
+We advise you treat Twitter like a garden that needs to be cultivated. 
 
 Be comfortable with unfollowing people - be a bit ruthless even.
 
-Block with abandon.
+Block people easily - there's no need for idiots to fill up your feed! 
 
 ## Mute words
 
 This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of your feed. When people quote tweet then the mute doesn't pick those up.
 
-My current mute list as of 31 January 2020
+Oscar's current mute list as of 31 January 2020
 * Republican
 * Dems
 * democrats

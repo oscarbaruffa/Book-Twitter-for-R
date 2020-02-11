@@ -14,6 +14,7 @@ output:
         
 site: "bookdown::bookdown_site"
 delete_merged_file: true
+css: style.css
 ---
 
 ```{r setup, include=FALSE}

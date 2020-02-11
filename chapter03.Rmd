@@ -2,27 +2,35 @@
 
 So know you're following some folks. Let's look at your feed. 
 
-<<feed gif>>
+<feed gif>
 
-From time to time Twitter modifies the algorithms for what shows up in your feed, but here are the main things that causes a Tweet to enter it. 
+From time to time Twitter modifies the algorithms for what shows up in your feed. Here are the main ways your feed is populated. 
 
-Bear with us here!
+P.S. Bear with us here! 
 
-1. Someone you follow posts a tweet.
+## Someone you follow posts a tweet
 
-* Someone you follow replies to a tweet. Often just their reply will show in your feed, but if a lot of people you follow reply to a tweet, the the orginal tweet also appaers with the thread of replies below it.
+This is the basic way your feed works. Soemone you follow posts a tweet, it shows up in you feed. 
+
+
+## Someone you follow replies to a tweet. 
+
+A reply-tweet from someone you follow will show up in your feed. If you follow both the original poster of the tweet, you'll see the both the reply, and the orginal tweet being replied to. 
+
+If a lot of people that you follow reply to a tweet, the the orginal tweet may appear with the thread of replies below it, even if you don't follow that orginal account that made the tweet.
 
 In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them. 
 
 
 
 <center>
-![](images/handle.png){width=50%}
+![](images/handle.png)
 </center>
 
 
-    
-* Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. 
+ ## Retweets   
+
+Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. Both options are provided to you when you wish to rewteet
 
 
 Here you can see Zoe retweet this tweet (without commenting) from Programming Wisdom.
@@ -32,25 +40,24 @@ Here you can see Zoe retweet this tweet (without commenting) from Programming Wi
 Here we see Bob retweeted a tweet by Malcolm, and commented on it. 
 ![](images/feed_share_info.jpg)
 
-* Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed. 
+## Liked tweets
+
+Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed, even if you don't follwo the account of the person whose tweet was Liked. 
+
 This tweet showed in my feed because Chelsea liked a tweet from Eli
 ![](images/feed_liked_tweet.jpg)
 
 
+## High enagagement tweets
+A tweet that is gettign a lot of comments, liek and enagements from the people you follow might show up in your feed, even if you don't follow that account yourself. 
 
-* Posts from account that you don't follow but is followed by a lot of the people who you follow and that post is gettign a lot of interaction either from likes, retweets or comments.
 <high engagement tweet>
 
-* Advertisments. These have a little "promoted" tweet indicator. 
+
+## Promoted tweets
+Advertisments. These have a little "promoted" tweet indicator. It is posisble for anyone to promote their tweets by paying money, but that's not necessary for you to be concerned with. 
 
 
 
 
-There's also two ways that you feed gets ordered. Either magically or chronologically.  
-Some people have a preference, others don't. 
 
-There's the "magic" way which is probably the default setting. 
-This tries to prioritise posts that you might like, regardless of chronological order. 
-If like me you prefer more chronological posts, turn this off like this.
-
-<turn off magic timelines>>

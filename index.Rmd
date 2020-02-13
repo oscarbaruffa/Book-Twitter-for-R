@@ -26,9 +26,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-> THIS BOOK IS UNDER CONSTRUCTION and I'm figuring a lot about version control while doing it
+> THIS BOOK IS UNDER CONSTRUCTION
 
-You can subscribe to my [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
+You can subscribe to Oscar's [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
 
 ## The warmest of welcomes to you!
 The R community is very active on twitter. 

@@ -5,6 +5,6 @@ account: oscar_baruffa
 server: bookdown.org
 hostUrl: https://bookdown.org/__api__
 appId: 2999
-bundleId: 18302
+bundleId: 18346
 url: https://bookdown.org/oscar_baruffa/Book-Twitter-for-R/
-when: 1581508502.03599
+when: 1581583087.88957

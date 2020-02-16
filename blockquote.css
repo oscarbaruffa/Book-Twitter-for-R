@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 blockquote.twitter-tweet {
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
@@ -11,7 +10,7 @@ blockquote.twitter-tweet {
   border-width: 1px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   margin: 10px 5px;
-  padding: 0 16px 16px 16px;
+  padding: 16px;
   max-width: 468px;
 }
 
@@ -32,7 +31,3 @@ blockquote.twitter-tweet a:hover,
 blockquote.twitter-tweet a:focus {
   text-decoration: underline;
 }
-=======
-
-
->>>>>>> 3d7571abd9bab77a8971ff5a4e8f3f97008e9dab

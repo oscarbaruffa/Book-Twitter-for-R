@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>7 Extra info | Twitter for R programmers</title>
   <meta name="description" content="7 Extra info | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.15 and GitBook 2.6.7" />
 
   <meta property="og:title" content="7 Extra info | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -77,9 +80,10 @@
 <li class="chapter" data-level="3" data-path="read-the-feed.html"><a href="read-the-feed.html"><i class="fa fa-check"></i><b>3</b> Read the feed</a><ul>
 <li class="chapter" data-level="3.1" data-path="read-the-feed.html"><a href="read-the-feed.html#someone-you-follow-posts-a-tweet"><i class="fa fa-check"></i><b>3.1</b> Someone you follow posts a tweet</a></li>
 <li class="chapter" data-level="3.2" data-path="read-the-feed.html"><a href="read-the-feed.html#someone-you-follow-replies-to-a-tweet."><i class="fa fa-check"></i><b>3.2</b> Someone you follow replies to a tweet.</a></li>
-<li class="chapter" data-level="3.3" data-path="read-the-feed.html"><a href="read-the-feed.html#liked-tweets"><i class="fa fa-check"></i><b>3.3</b> Liked tweets</a></li>
-<li class="chapter" data-level="3.4" data-path="read-the-feed.html"><a href="read-the-feed.html#high-enagagement-tweets"><i class="fa fa-check"></i><b>3.4</b> High enagagement tweets</a></li>
-<li class="chapter" data-level="3.5" data-path="read-the-feed.html"><a href="read-the-feed.html#promoted-tweets"><i class="fa fa-check"></i><b>3.5</b> Promoted tweets</a></li>
+<li class="chapter" data-level="3.3" data-path="read-the-feed.html"><a href="read-the-feed.html#retweets"><i class="fa fa-check"></i><b>3.3</b> Retweets</a></li>
+<li class="chapter" data-level="3.4" data-path="read-the-feed.html"><a href="read-the-feed.html#liked-tweets"><i class="fa fa-check"></i><b>3.4</b> Liked tweets</a></li>
+<li class="chapter" data-level="3.5" data-path="read-the-feed.html"><a href="read-the-feed.html#high-enagagement-tweets"><i class="fa fa-check"></i><b>3.5</b> High enagagement tweets</a></li>
+<li class="chapter" data-level="3.6" data-path="read-the-feed.html"><a href="read-the-feed.html#promoted-tweets"><i class="fa fa-check"></i><b>3.6</b> Promoted tweets</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html"><i class="fa fa-check"></i><b>4</b> #Hashtags, what are they good for?</a><ul>
 <li class="chapter" data-level="4.1" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#rstats"><i class="fa fa-check"></i><b>4.1</b> #RStats</a></li>
@@ -138,9 +142,10 @@ Published with bookdown</a></center></li>
             <section class="normal" id="section-">
 <div id="extra-info" class="section level1">
 <h1><span class="header-section-number">7</span> Extra info</h1>
-<p>Use this to add anything else that might be improtant for people to know.</p>
+<p>Use this to add anything else that might be important for people to know.</p>
 <ul>
-<li><p>Scheduling tweets (sending them out at a specific date and time)</p></li>
+<li><p>Scheduling tweets
+Instead of sending your tweet into the world right away, you can schedule it to be sent out at a specific date and time. Maybe your tweet is about a specific event, and you only want your tweet to appear when the event has started. First, write your tweet like you would normally do. To schedule, click the calendar / clock icon and choose date and time. The <strong>Tweet</strong> button is now a <strong>Schedule</strong> button. Click the button and you’re done! Under the calendar / clock icon, you can also select the <strong>Scheduled tweets</strong> at the bottom to see a list of tweets you’ve scheduled but that haven’t been sent yet.</p></li>
 <li><p>Sending tweets from inside Rstudio (rtweets / tweetRcode)</p></li>
 <li><p>Analyzing twitter data with rtweets</p></li>
 </ul>
@@ -157,24 +162,24 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",

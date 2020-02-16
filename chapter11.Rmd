@@ -5,4 +5,5 @@ Thank you for reading our guide and we hope this helps you take part in the wond
 
 ## Further reading
 
-- Analysing the R Twitterverse, a blogpost by Perry Stephenson: https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/
+- [Analysing the R Twitterverse](https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/), a blogpost by Perry Stephenson: 
+- [Ten simple rules for getting started on Twitter as a scientist]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)

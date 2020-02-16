@@ -1,8 +1,9 @@
 # Extra info
 
-Use this to add anything else that might be improtant for people to know. 
+Use this to add anything else that might be important for people to know. 
 
-- Scheduling tweets (sending them out at a specific date and time)
+- Scheduling tweets
+Instead of sending your tweet into the world right away, you can schedule it to be sent out at a specific date and time. Maybe your tweet is about a specific event, and you only want your tweet to appear when the event has started. First, write your tweet like you would normally do. To schedule, click the calendar / clock icon and choose date and time. The **Tweet** button is now a **Schedule** button. Click the button and you're done! Under the calendar / clock icon, you can also select the **Scheduled tweets** at the bottom to see a list of tweets you've scheduled but that haven't been sent yet.
 
 - Sending tweets from inside Rstudio (rtweets / tweetRcode)
 

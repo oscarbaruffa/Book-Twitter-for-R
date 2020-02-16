@@ -1,4 +1,4 @@
-# #Hashtags, what are they good for 
+# #Hashtags, what are they good for?
 
 Quite a lot, actually. By now hashtags have found their way across multiple social media platforms. 
 
@@ -15,13 +15,16 @@ The hashtag was first used in 2009.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I declare <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> the official R statistical prog lang hashtag, pass it on to friends, family and Stata users</p>&mdash; Drew Conway (@drewconway) <a href="https://twitter.com/drewconway/status/1448027809?ref_src=twsrc%5Etfw">April 3, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-![](images/search_hashtags_rstats.jpg)
+
 
 ## #TidyTuesday
-Every week there is a Tidy Tuesday challenge posted. It's a dataset that everyone makes visualisations about and shares their results (and often source code too!). This is a fun way to improve your own skills by learnign hwo other sdo things and practicing on interested data sets. 
-![](images/search_hashtags_tidyTuesday.jpg)
 
-Tweet: https://twitter.com/zhiiiyang/status/1185328020745117698?s=20
+Every week there is a Tidy Tuesday challenge posted. It's a dataset that everyone makes visualisations about and shares their results (and often source code too!). This is a fun way to improve your own skills by learning how others do things and practicing on interesting datasets. 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/R4DScommunity?ref_src=twsrc%5Etfw">@R4DScommunity</a> welcomes you to week 7 of <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>! We&#39;re exploring Hotel Bookings and tidy time-series with {tsibble}!<br><br>📁 <a href="https://t.co/sElb4fcv3u">https://t.co/sElb4fcv3u</a><br>📰 <a href="https://t.co/aaRUiVwpku">https://t.co/aaRUiVwpku</a><a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/QG8QpzCugr">pic.twitter.com/QG8QpzCugr</a></p>&mdash; Tom Mock (@thomas_mock) <a href="https://twitter.com/thomas_mock/status/1226904631390998528?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 ## Event hashtags
@@ -34,6 +37,5 @@ Other event hashtags:
 - #eRum + year, eg. #eRum2020
 - #SatRday
 
-
-![](images/search_hashtags_conference.jpg)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">can&#39;t believe <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a> talks are already online!! go watch me laugh at my own jokes for 20 minutes (and also learn a bit about repeated reporting) <a href="https://t.co/hfKu1vhNzp">https://t.co/hfKu1vhNzp</a></p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1225516760247472130?ref_src=twsrc%5Etfw">February 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

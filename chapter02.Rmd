@@ -1,27 +1,32 @@
-# Follow some more folks
+# Follow some folks
 
 The key to making Twitter work for you is to follow accounts that you find interesting. 
 Accounts can be owned either by individuals or admistered by companies. 
 
 Twitter will often recommend accounts for you to follow. 
 Some may be relevant, so go ahead and follow them. 
-Over time, you'll find that you follow more and more people. 
+Over time, you'll find that you follow more and more accounts. 
 
 ## Following people and organisations
 
 You can find people to follow by searching for their Twitter handle. 
 This is a unique identifier associated with each account. 
 
-![](images/handle.png)
-    
+For example, Allison Horst's tag is "@allison_horst". 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Comparing scenarios &amp; connecting sample differences to p-values to evidence for population differences. <a href="https://t.co/9qrHVoDS76">pic.twitter.com/9qrHVoDS76</a></p>&mdash; Allison Horst (@allison_horst) <a href="https://twitter.com/allison_horst/status/1216411299875192837?ref_src=twsrc%5Etfw">January 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Tags are the basis for interacting with other accounts on twitter. When you want to mention someone in a tweet, a tag is how you'll do it. We'll do some practice tweeting soon!
 
 We've listed a few accounts for you to follow and get some practice at the same time. 
 These are some prominent members of the R community and they post good stuff. 
 Go ahead and search for these accounts and follow them. Let's walk you through the first one. 
 
-Search for Hadley Wickham by typing **[\@hadleywickham](https://twitter.com/hadleywickham){target="_blank"}** in the search bar. 
-Hadley's profile will come up and you can select the **follow** button.
+1. Select the search bar (the magnifying glass icon 🔍 ) 
+1. Search for Hadley Wickham by typing **[\@hadleywickham](https://twitter.com/hadleywickham){target="_blank"}** in the search bar. 
+1. Hadley's profile will come up. 
+1. Select it. 
+1. Select the **follow** button.
 
 
 ![](images/search_hadley.jpg)
@@ -29,7 +34,7 @@ Hadley's profile will come up and you can select the **follow** button.
 Well done! 
 You've followed your first person :).
 
-Now go ahead and follow a few other people:
+Now go ahead and follow a few other prominent R-people:
 
 * Mara Averick: **[\@dataandme](https://twitter.com/dataandme){target="_blank"}**
 * Caitlin Hudon: **[\@beeonaposy](https://twitter.com/beeonaposy){target="_blank"}**
@@ -44,9 +49,9 @@ There are also great organisational accounts:
 * R-Ladies Global: **[\@RLadiesGlobal](https://twitter.com/RLadiesGlobal){target="_blank"}**
 
 
-If you're like me, you may start remembering people by their Twitter handle rather than their actual name!
+You may start remembering people by their Twitter handle rather than their actual name!
 
-Oh yes, you can also go ahead and follow me us you want :). 
+Oh yes, you can also go ahead and follow Oscar and Veerle if you'd like to :). 
 
 * Oscar Baruffa: **[\@oscarbaruffa](https://twitter.com/OscarBaruffa){target="_blank"}**
 * Veerle van Son: **[\@veerlevanson](https://twitter.com/veerlevanson){target="_blank"}** 
@@ -60,9 +65,12 @@ But first:
 ### A note on your own follower count
 
 
-I can't stress this enough. 
+This can't be stressed enough.
+
 > Ignore your own follower count. 
-It's a great boost to ego as your follower number grows, but the benefit you get comes from following other accounts. 
+
+It's a great boost to ego as your follower number grows, but the benefit you get comes from following other accounts, not who follows you. _Crosses fingers, hopes that Hadley follows_ 
+
 You may get some followers yourself but that has no bearing on how much value you'll get from using Twitter.
 
 ## How to unfollow people
@@ -71,11 +79,14 @@ When you first signed up to Twitter, you were prompted to *follow* some popular 
 
 First let's go back to those accounts you followed earlier. Your accounts will be different from these but the steps remain the same. 
 
-<show unfollow steps, select profile, select followed accoutns, unfollow accounts>>
+1. Select your own profile photo on the top left of the screen, this opens your menu. 
+1. Tap on the "6 Following" number, your number might be different to this.
+1. You can unfollow accounts by tapping on the "Following" button. 
 
 You can also *unfollow* directly from your feed like this.
 
-<show unfollow steps from feed>
+1. On any tweet by the account you wish to unfollow, tap the little drop-down arrow to the right of their accout name. 
+1. Select Unfollow. 
 
 
 Well done! You're already getting the hang of this. Let's have a closer look at how your Twitter feed works. 

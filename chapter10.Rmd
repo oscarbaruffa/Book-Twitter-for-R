@@ -1,31 +1,20 @@
-# Twitter oddities 
+# All about bots
 
-There are some accounts that may look a bit odd or behave strangely. 
-We'll introduce some of these to you now:
-
-NOTE: need examples of each
-
-## Bot accounts
-Humans to do not actively tweet from bot accounts - they are set up to do so automatically.
+There are some accounts that may look a bit odd or behave strangely. These are generally bots. 
+We'll introduce some of these to you below. 
 
 
-### Benign bots
+## Benign bots
 Tweets are related to things like the weather forecasts, or perhaps some mundane activity that somewhere, someone, finds useful.
 
+This bot is tweeting the weather for Utrecht, Netherlands. 
 
-### Funny bots
-Tweets are usally humourous or related to some sort of activity like reply to tweets with words replaced by something humorous. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">current weather in Utrecht: few clouds, 9°C<br>70% humidity, wind 10kmh, pressure 1016mb</p>&mdash; Utrecht Weather (@_UtrechtNL) <a href="https://twitter.com/_UtrechtNL/status/1229813120882708481?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Malicious bots
-Could be some sort of automated scripts posing as humans, usually designed to invoke nager by commenting rudely about some political topic and often replies to popular accounts. 
-The idea is that human followers see this and are influenced by them. 
-You can spot these usually because you can't believe a real person would have such an account - off image, weird auto--generated username, very few followers, very few tweets. 
-Twitter's algorithms are getting much better at shutting these accounts down than in the past. 
+## Funny bots
+Tweets are usually humourous or related to some sort of activity like reply to tweets with words replaced by something humorous. 
 
-### Trolls
-Just your regular real world human troll. Block them. 
 
-### Dead accounts
-You might find you want to follow your favourite band or some person who hasn't tweeted in ages, or never tweeted. This happens and these accounts are sometimes created to be able to claim the twitter tag which may have some significance to the owner. Or the owner doesn't use the account anymore, but never bothered to delete it. 
+
 

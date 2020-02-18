@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>10 All about bots | Twitter for R programmers</title>
+  <meta name="description" content="10 All about bots | Twitter for R programmers" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="10 All about bots | Twitter for R programmers" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="10 All about bots | Twitter for R programmers" />
+  
+  
+  
+
+<meta name="author" content="Oscar Baruffa, Veerle van Son" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="lets-dissect-some-tweets.html"/>
+<link rel="next" href="thanks.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="blockquote.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<br/><center><b><a href="./index.html">&nbsp&nbspTwitter for R programmers</a></b></center></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#the-warmest-of-welcomes-to-you"><i class="fa fa-check"></i><b>1.1</b> The warmest of welcomes to you!</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="follow-some-folks.html"><a href="follow-some-folks.html"><i class="fa fa-check"></i><b>2</b> Follow some folks</a><ul>
+<li class="chapter" data-level="2.1" data-path="follow-some-folks.html"><a href="follow-some-folks.html#following-people-and-organisations"><i class="fa fa-check"></i><b>2.1</b> Following people and organisations</a><ul>
+<li class="chapter" data-level="2.1.1" data-path="follow-some-folks.html"><a href="follow-some-folks.html#a-note-on-your-own-follower-count"><i class="fa fa-check"></i><b>2.1.1</b> A note on your own follower count</a></li>
+</ul></li>
+<li class="chapter" data-level="2.2" data-path="follow-some-folks.html"><a href="follow-some-folks.html#how-to-unfollow-people"><i class="fa fa-check"></i><b>2.2</b> How to unfollow people</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="read-the-feed.html"><a href="read-the-feed.html"><i class="fa fa-check"></i><b>3</b> Read the feed</a><ul>
+<li class="chapter" data-level="3.1" data-path="read-the-feed.html"><a href="read-the-feed.html#someone-you-follow-posts-a-tweet"><i class="fa fa-check"></i><b>3.1</b> Someone you follow posts a tweet</a></li>
+<li class="chapter" data-level="3.2" data-path="read-the-feed.html"><a href="read-the-feed.html#someone-you-follow-replies-to-a-tweet."><i class="fa fa-check"></i><b>3.2</b> Someone you follow replies to a tweet.</a></li>
+<li class="chapter" data-level="3.3" data-path="read-the-feed.html"><a href="read-the-feed.html#retweets"><i class="fa fa-check"></i><b>3.3</b> Retweets</a></li>
+<li class="chapter" data-level="3.4" data-path="read-the-feed.html"><a href="read-the-feed.html#liked-tweets"><i class="fa fa-check"></i><b>3.4</b> Liked tweets</a></li>
+<li class="chapter" data-level="3.5" data-path="read-the-feed.html"><a href="read-the-feed.html#promoted-tweets"><i class="fa fa-check"></i><b>3.5</b> Promoted tweets</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html"><i class="fa fa-check"></i><b>4</b> #Hashtags, what are they good for?</a><ul>
+<li class="chapter" data-level="4.1" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#rstats"><i class="fa fa-check"></i><b>4.1</b> #RStats</a></li>
+<li class="chapter" data-level="4.2" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#tidytuesday"><i class="fa fa-check"></i><b>4.2</b> #TidyTuesday</a></li>
+<li class="chapter" data-level="4.3" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#event-hashtags"><i class="fa fa-check"></i><b>4.3</b> Event hashtags</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="your-first-tweets.html"><a href="your-first-tweets.html"><i class="fa fa-check"></i><b>5</b> Your first tweets</a></li>
+<li class="chapter" data-level="6" data-path="how-threads-work.html"><a href="how-threads-work.html"><i class="fa fa-check"></i><b>6</b> How threads work</a></li>
+<li class="chapter" data-level="7" data-path="extra-info.html"><a href="extra-info.html"><i class="fa fa-check"></i><b>7</b> Extra info</a></li>
+<li class="chapter" data-level="8" data-path="cultivating-your-magic-garden-tips-for-a-great-experience.html"><a href="cultivating-your-magic-garden-tips-for-a-great-experience.html"><i class="fa fa-check"></i><b>8</b> Cultivating your magic garden - tips for a great experience</a><ul>
+<li class="chapter" data-level="8.1" data-path="cultivating-your-magic-garden-tips-for-a-great-experience.html"><a href="cultivating-your-magic-garden-tips-for-a-great-experience.html#mute-words"><i class="fa fa-check"></i><b>8.1</b> Mute words</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html"><i class="fa fa-check"></i><b>9</b> Let’s dissect some tweets</a><ul>
+<li class="chapter" data-level="9.1" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html#viral-tweet"><i class="fa fa-check"></i><b>9.1</b> Viral tweet</a></li>
+<li class="chapter" data-level="9.2" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html#good-news"><i class="fa fa-check"></i><b>9.2</b> Good news</a></li>
+<li class="chapter" data-level="9.3" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html#help-and-technical-questions"><i class="fa fa-check"></i><b>9.3</b> Help and technical questions</a></li>
+<li class="chapter" data-level="9.4" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html#poll"><i class="fa fa-check"></i><b>9.4</b> Poll</a></li>
+<li class="chapter" data-level="9.5" data-path="lets-dissect-some-tweets.html"><a href="lets-dissect-some-tweets.html#info-sharing"><i class="fa fa-check"></i><b>9.5</b> Info sharing</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="all-about-bots.html"><a href="all-about-bots.html"><i class="fa fa-check"></i><b>10</b> All about bots</a><ul>
+<li class="chapter" data-level="10.1" data-path="all-about-bots.html"><a href="all-about-bots.html#benign-bots"><i class="fa fa-check"></i><b>10.1</b> Benign bots</a></li>
+<li class="chapter" data-level="10.2" data-path="all-about-bots.html"><a href="all-about-bots.html#funny-bots"><i class="fa fa-check"></i><b>10.2</b> Funny bots</a></li>
+</ul></li>
+<li class="chapter" data-level="11" data-path="thanks.html"><a href="thanks.html"><i class="fa fa-check"></i><b>11</b> Thanks!</a><ul>
+<li class="chapter" data-level="11.1" data-path="thanks.html"><a href="thanks.html#further-reading"><i class="fa fa-check"></i><b>11.1</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="12" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i><b>12</b> About the authors</a><ul>
+<li class="chapter" data-level="12.1" data-path="about-the-authors.html"><a href="about-the-authors.html#oscar-baruffa"><i class="fa fa-check"></i><b>12.1</b> Oscar Baruffa</a></li>
+<li class="chapter" data-level="12.2" data-path="about-the-authors.html"><a href="about-the-authors.html#veerle-van-son"><i class="fa fa-check"></i><b>12.2</b> Veerle van Son</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><center><a href="https://bookdown.org/yihui/bookdown/">
+Published with bookdown</a></center></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Twitter for R programmers</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="all-about-bots" class="section level1">
+<h1><span class="header-section-number">10</span> All about bots</h1>
+<p>There are some accounts that may look a bit odd or behave strangely. These are generally bots.
+We’ll introduce some of these to you below.</p>
+<div id="benign-bots" class="section level2">
+<h2><span class="header-section-number">10.1</span> Benign bots</h2>
+<p>Tweets are related to things like the weather forecasts, or perhaps some mundane activity that somewhere, someone, finds useful.</p>
+<p>This bot is tweeting the weather for Utrecht, Netherlands.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+current weather in Utrecht: few clouds, 9°C<br>70% humidity, wind 10kmh, pressure 1016mb
+</p>
+— Utrecht Weather (<span class="citation">@_UtrechtNL</span>) <a href="https://twitter.com/_UtrechtNL/status/1229813120882708481?ref_src=twsrc%5Etfw">February 18, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div id="funny-bots" class="section level2">
+<h2><span class="header-section-number">10.2</span> Funny bots</h2>
+<p>Tweets are usually humourous or related to some sort of activity like reply to tweets with words replaced by something humorous.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="lets-dissect-some-tweets.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="thanks.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"google": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

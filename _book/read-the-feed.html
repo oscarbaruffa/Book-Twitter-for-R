@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>3 Read the feed | Twitter for R programmers</title>
   <meta name="description" content="3 Read the feed | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.15 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="3 Read the feed | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,7 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
 
 
 
@@ -50,9 +49,7 @@
 
 
 
-
-
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="blockquote.css" type="text/css" />
 </head>
 
 <body>
@@ -142,22 +139,34 @@ Published with bookdown</a></center></li>
             <section class="normal" id="section-">
 <div id="read-the-feed" class="section level1">
 <h1><span class="header-section-number">3</span> Read the feed</h1>
-<p>So know you’re following some folks. Let’s look at your feed.</p>
+<p>So now you’re following some folks. Let’s look at your feed.</p>
 <p><feed gif></p>
 <p>From time to time Twitter modifies the algorithms for what shows up in your feed. Here are the main ways your feed is populated.</p>
 <p>P.S. Bear with us here!</p>
 <div id="someone-you-follow-posts-a-tweet" class="section level2">
 <h2><span class="header-section-number">3.1</span> Someone you follow posts a tweet</h2>
-<p>This is the basic way your feed works. Someone you follow posts a tweet, it shows up in you feed.</p>
+<p>This is the basic way your feed works. Someone you follow posts a tweet, it shows up in you feed.
+Here, Jesse posted a tweet of her and her cat and it showed in the feed.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Jinx's new favorite thing is to crash my video calls. I'm not even mad. <a href="https://t.co/kpjYVXUWDO">pic.twitter.com/kpjYVXUWDO</a>
+</p>
+— Jesse Mostipak (<span class="citation">@kierisi</span>) <a href="https://twitter.com/kierisi/status/1229274459649052672?ref_src=twsrc%5Etfw">February 17, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <div id="someone-you-follow-replies-to-a-tweet." class="section level2">
 <h2><span class="header-section-number">3.2</span> Someone you follow replies to a tweet.</h2>
 <p>A reply-tweet from someone you follow will show up in your feed. If you follow both the original poster of the tweet, you’ll see the both the reply, and the orginal tweet being replied to.</p>
 <p>If a lot of people that you follow reply to a tweet, the the orginal tweet may appear with the thread of replies below it, even if you don’t follow that orginal account that made the tweet.</p>
-<p>In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them.</p>
-<center>
-<img src="images/handle.png" />
-</center>
+<p>In the example below, David posted a tweet and Nicole replied to it.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+I used to do this for my summer stats class but don't have any compelling artifacts
+</p>
+— Nicole Radziwill (<span class="citation">@nicoleradziwill</span>) <a href="https://twitter.com/nicoleradziwill/status/1229409187916062720?ref_src=twsrc%5Etfw">February 17, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <div id="retweets" class="section level2">
 <h2><span class="header-section-number">3.3</span> Retweets</h2>
@@ -196,24 +205,24 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
+"github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",

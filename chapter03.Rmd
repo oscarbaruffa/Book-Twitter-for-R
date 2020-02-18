@@ -1,6 +1,6 @@
 # Read the feed
 
-So know you're following some folks. Let's look at your feed. 
+So now you're following some folks. Let's look at your feed. 
 
 <feed gif>
 
@@ -11,7 +11,9 @@ P.S. Bear with us here!
 ## Someone you follow posts a tweet
 
 This is the basic way your feed works. Someone you follow posts a tweet, it shows up in you feed. 
+Here, Jesse posted a tweet of her and her cat and it showed in the feed. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jinx&#39;s new favorite thing is to crash my video calls. I&#39;m not even mad. <a href="https://t.co/kpjYVXUWDO">pic.twitter.com/kpjYVXUWDO</a></p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1229274459649052672?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Someone you follow replies to a tweet. 
 
@@ -19,13 +21,10 @@ A reply-tweet from someone you follow will show up in your feed. If you follow b
 
 If a lot of people that you follow reply to a tweet, the the orginal tweet may appear with the thread of replies below it, even if you don't follow that orginal account that made the tweet.
 
-In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them. 
+In the example below, David posted a tweet and Nicole replied to it. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I used to do this for my summer stats class but don&#39;t have any compelling artifacts</p>&mdash; Nicole Radziwill (@nicoleradziwill) <a href="https://twitter.com/nicoleradziwill/status/1229409187916062720?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<center>
-![](images/handle.png)
-</center>
 
 
 ## Retweets   

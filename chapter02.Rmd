@@ -29,7 +29,6 @@ Go ahead and search for these accounts and follow them. Let's walk you through t
 1. Select the **follow** button.
 
 
-![](images/search_hadley.jpg)
     
 Well done! 
 You've followed your first person :).
@@ -69,7 +68,7 @@ This can't be stressed enough.
 
 > Ignore your own follower count. 
 
-It's a great boost to ego as your follower number grows, but the benefit you get comes from following other accounts, not who follows you. _Crosses fingers, hopes that Hadley follows_ 
+It's a great boost to ego as your follower number grows, but the benefit you get comes from following other accounts, not who follows you. _🤞 hopes that Hadley follows🤞 _ 
 
 You may get some followers yourself but that has no bearing on how much value you'll get from using Twitter.
 
@@ -85,7 +84,7 @@ First let's go back to those accounts you followed earlier. Your accounts will b
 
 You can also *unfollow* directly from your feed like this.
 
-1. On any tweet by the account you wish to unfollow, tap the little drop-down arrow to the right of their accout name. 
+1. Look at any tweet from the account you wish to unfollow and tap the little drop-down arrow to the right of the accout name. 
 1. Select Unfollow. 
 
 

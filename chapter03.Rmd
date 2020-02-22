@@ -1,6 +1,6 @@
 # Read the feed
 
-So know you're following some folks. Let's look at your feed. 
+So now you're following some folks. Let's look at your feed. 
 
 <feed gif>
 
@@ -11,7 +11,9 @@ P.S. Bear with us here!
 ## Someone you follow posts a tweet
 
 This is the basic way your feed works. Someone you follow posts a tweet, it shows up in you feed. 
+Here, Jesse posted a tweet of her and her cat and it showed in the feed. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jinx&#39;s new favorite thing is to crash my video calls. I&#39;m not even mad. <a href="https://t.co/kpjYVXUWDO">pic.twitter.com/kpjYVXUWDO</a></p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1229274459649052672?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Someone you follow replies to a tweet. 
 
@@ -19,13 +21,10 @@ A reply-tweet from someone you follow will show up in your feed. If you follow b
 
 If a lot of people that you follow reply to a tweet, the the orginal tweet may appear with the thread of replies below it, even if you don't follow that orginal account that made the tweet.
 
-In the example below, Alison posted a tweet and Sil replied to it, and I follow both of them. 
+In the example below, David posted a tweet and Nicole replied to it. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I used to do this for my summer stats class but don&#39;t have any compelling artifacts</p>&mdash; Nicole Radziwill (@nicoleradziwill) <a href="https://twitter.com/nicoleradziwill/status/1229409187916062720?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<center>
-![](images/handle.png)
-</center>
 
 
 ## Retweets   
@@ -33,31 +32,31 @@ In the example below, Alison posted a tweet and Sil replied to it, and I follow 
 Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. Both options are provided to you when you wish to rewteet
 
 
-Here you can see Zoe retweet this tweet (without commenting) from Programming Wisdom.
+Here you can see Mary retweeted Danielle's tweet.
 <br/>
-![](images/retweet.jpg)
+![](images/retweet.png)
 
-Here we see Bob retweeted a tweet by Malcolm, and commented on it. 
-![](images/feed_share_info.jpg)
+<br/>
+
+Here's an example of a quoted retweet. Josiah retweeted Tyler's tweet, and commented on it. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is seriously so mind boggling. <a href="https://t.co/ICZi5ji2xw">https://t.co/ICZi5ji2xw</a></p>&mdash; Josiah 👨🏻
+💻 (@JosiahParry) <a href="https://twitter.com/JosiahParry/status/1229480796106428416?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Liked tweets
 
 Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed, even if you don't follow the account of the person whose tweet was liked. 
 
-This tweet showed in my feed because Chelsea liked a tweet from Eli
-![](images/feed_liked_tweet.jpg)
+
+This tweet showed in the feed because Mine and Stoeh liked a tweet from Think&Smile.
+![](images/liked.png)
 
 
-## High enagagement tweets
-A tweet that is getting a lot of comments, liek and enagements from the people you follow might show up in your feed, even if you don't follow that account yourself. 
-
-<high engagement tweet>
 
 
 ## Promoted tweets
-Advertisments. These have a little "promoted" tweet indicator. It is posisble for anyone to promote their tweets by paying money, but that's not necessary for you to be concerned with. 
+Advertisments. These have a little "promoted" tweet indicator at the bottom of the post. Anyone can pay to promote their tweets by paying money, but that's not necessary for you to be concerned with. It's possible to block these accounts just as you would with any other account if you don't like the advertiser. 
 
-
+![](images/promoted.png)
 
 
 

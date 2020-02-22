@@ -1,12 +1,19 @@
 # How threads work
 
-Tweet threads are one of the little gems of this microblogging platform. A thread is just a string of tweets all linked together by the author and will relate to a topic in some way. Here's how a thread shows up in you feed. 
+Tweet threads are one of the little gems of this microblogging platform. A thread is a string of tweets all linked together by the author and will relate to a topic in some way. When composing a thread, usually people indicate this by starting it with [Thread] or 1/n or some other way to highlight it's a thread. 
 
-When composing a thread, usually people indicate this by starting it with [Thread] or 1/n or some other way to highlight it's a thread.
+Here's how a thread shows up in you feed. 
 
 
-![](images/tweet_thread_make.jpg)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What keeps you from contributing to other ppl&#39;s (<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> etc) open-source projects? <a href="https://twitter.com/hashtag/thread?src=hash&amp;ref_src=twsrc%5Etfw">#thread</a> 1/5<br><br>I have 3 fears:<br><br>1. What if my idea doesn&#39;t fit w/ the direction of the project?<br>2. What if my implementation doesn&#39;t match the project&#39;s design?<br>3. What if my style isn&#39;t on point?</p>&mdash; Benjamin Wolfe (@BenjaminWolfe) <a href="https://twitter.com/BenjaminWolfe/status/1228697624087318529?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![](images/tweet_thread_make2.jpg)
+<br>
 
-People can reply to any of the tweets in a thread which starts a mini offshoot thread. This can become a bit confusing if you want to see all replies to a thread, and we bascically have to live with it until Twitter finds a way to make this more intuitive. 
+To make a thread of your own, do this:
+
+<br>
+
+![](images/tweet_thread_make.jpg){width=50%}
+
+
+People can reply to any of the tweets in a thread which starts a mini offshoot thread. This can become a bit confusing if you want to see all replies to a thread, and we basically have to live with it until Twitter finds a way to make this more intuitive. 

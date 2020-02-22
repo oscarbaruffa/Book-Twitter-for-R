@@ -11,14 +11,23 @@ Block people easily - there's no need for idiots to fill up your feed!
 This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of your feed. When people quote tweet then the mute doesn't pick those up.
 
 Oscar's current mute list as of 31 January 2020
+
 * Republican
+
 * Dems
-* democrats
+
+* Dmocrats
+
 * Kavanaugh
+
 * Facebook
+
 * Democrat
+
 * GOP
+
 * Kanye West
+
 
 This has vastly improved my experience :).
 

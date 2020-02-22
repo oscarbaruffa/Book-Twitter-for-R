@@ -1,24 +1,35 @@
 # Let's dissect some tweets
 
-Here are explanation of what is going on, using some exampels of tweets you're likely to see.
+Here's a few examples of tweets you're likely to see.
 
 ## Viral tweet
 
 This tweet has gone viral, with lots of retweets, comments and likes. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">😱 HOW. HAVE. I. NEVER. HEARD. OF. PATCHWORK?!?! <br><br>So easy to combine multiple <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> plots into one image. <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/x8pQ1tGfd8">https://t.co/x8pQ1tGfd8</a> <a href="https://t.co/Bf3uWxxmcU">pic.twitter.com/Bf3uWxxmcU</a></p>&mdash; Laura Ellis (@LittleMissData) <a href="https://twitter.com/LittleMissData/status/1229176433123168256?ref_src=twsrc%5Etfw">February 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Good news
 People love sharing good news on Twitter, usually people getting their PhD or tenure (lots of academics use R)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Several of my good friends found out they got tenure today and I&#39;m so happy for them and I miss them so much!</p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1110721613375246336?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Help and technical questions
 The R community loves helping out. Here's an example of people jumping in to answer a query. This doesn't _always_ happen, people are busy with their own lives, but it does happen a lot. Use the rstats hashtag to increase exposure of your R-related question. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can anyone help me understand why there are two definitions of tidy data (see bullet point #3)? <br><br>First is from R for Data Science (<a href="https://t.co/951IgcIaio">https://t.co/951IgcIaio</a>).<br><br>Second is from the tidyr website (<a href="https://t.co/DxGlY6B4kc">https://t.co/DxGlY6B4kc</a>).<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/Odjr092AuY">pic.twitter.com/Odjr092AuY</a></p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1225863868213186560?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Poll
 Polls are usally quite fun and often informative. 
 
-## Info sharing
-Teh R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kdis have done to the living room, you name it. Caution, you may end up emaling yourself more resoruces than you'll ever be able to consume :).
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👨
+💻👀 Tongue-in-cheek poll. RT for good sample pls :).<br><br>Are you a...<a href="https://twitter.com/hashtag/DataAnalytics?src=hash&amp;ref_src=twsrc%5Etfw">#DataAnalytics</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/pythonprogramming?src=hash&amp;ref_src=twsrc%5Etfw">#pythonprogramming</a></p>&mdash; Oscar Baruffa 📊🇿🇦🇳🇱 (@OscarBaruffa) <a href="https://twitter.com/OscarBaruffa/status/1089609740089466880?ref_src=twsrc%5Etfw">January 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+## Info sharing
+The R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kids have done to the living room, you name it. Caution, you may end up emaling yourself more resources than you'll ever be able to consume :).
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> for data visualisation, check out <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>! Here are ten reasons why Tidy Tuesday is my favourite day of the week ❤️: <a href="https://t.co/oCkaIGJVlQ">https://t.co/oCkaIGJVlQ</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a></p>&mdash; Veerle van Son 👩
+💻 (@veerlevanson) <a href="https://twitter.com/veerlevanson/status/1067053142032945153?ref_src=twsrc%5Etfw">November 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

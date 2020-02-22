@@ -9,7 +9,7 @@ This tweet has gone viral, with lots of retweets, comments and likes.
 
 
 ## Good news
-People love sharing good news on twitter, usually people gettign their PDH or tenure (lots of academics use R)
+People love sharing good news on Twitter, usually people getting their PhD or tenure (lots of academics use R)
 
 
 ## Help and technical questions

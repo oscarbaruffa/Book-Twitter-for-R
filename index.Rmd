@@ -67,11 +67,14 @@ But it's not all so serious, there is also room for some lighter content. Joking
 
 Tidy Tuesday (more about this later in the book)
 
-### Everyone struggles sometimes
-And that's OK. Support network
+### Encouragement
+Everybody struggles sometimes, and that's OK. 
+Support network
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only way to write good code is to write tons of shitty code first. Feeling shame about bad code stops you from getting to good code</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/589068687669243905?ref_src=twsrc%5Etfw">April 17, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-### Making friends on Twitter is a real thing
+### Making friends on Twitter (it's a real thing)
 
 Maybe it's hard to picture if you haven't used Twitter before, but it's a place where you can actually make a real connection with other people. Sometimes you get to meet the friends you made on Twitter in real life, eg. at a conference. 
 

@@ -1,7 +1,10 @@
 # Follow some folks
 
-The key to making Twitter work for you is to follow accounts that you find interesting. 
-Accounts can be owned either by individuals or admistered by companies. 
+Let's start by downloading the Twitter app on your phone, or visiting the [desktop site](https://twitter.com/){target="_blank"}. Create an account and you're good to go.
+
+When your first start, you'll be prompted to follow some popular accounts. Go ahead and select a few. Don't worry about which you select, we'll show you how to unfollow accounts later. For now, just pick a few and continue.
+
+The key to making Twitter work for you is to follow accounts that you find interesting. Accounts can be owned either by individuals or admistered by companies. 
 
 Twitter will often recommend accounts for you to follow. 
 Some may be relevant, so go ahead and follow them. 

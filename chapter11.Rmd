@@ -26,11 +26,6 @@ Twitter is a great source of data for all sorts of analyses. You can use the exc
 Oh yes, you send send tweets directly from Rstudio, also using [rtweet](https://rtweet.info/index.html){target="_blank"} 
 
 
-## Further reading
-
-- [Analysing the R Twitterverse](https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/){target="_blank"}, blogpost by [\@perrystephenson](https://twitter.com/perrystephenson){target="_blank"}
-- [Ten simple rules for getting started on Twitter as a scientist]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513){target="_blank"}, journal article in PLoS Computational Biology by [\@DrVeronikaCH](https://twitter.com/DrVeronikaCH){target="_blank"}, [\@Felienne](https://twitter.com/Felienne){target="_blank"}, [\@CaAl](https://twitter.com/CaAl){target="_blank"}, [\@nbielczyk_neuro](https://twitter.com/nbielczyk_neuro){target="_blank"} and [\@ionicasmeets](https://twitter.com/ionicasmeets){target="_blank"}.
-
 
  
  

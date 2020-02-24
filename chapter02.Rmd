@@ -1,7 +1,10 @@
 # Follow some folks
 
-The key to making Twitter work for you is to follow accounts that you find interesting. 
-Accounts can be owned either by individuals or admistered by companies. 
+Let's start by downloading the Twitter app on your phone, or visiting the [desktop site](https://twitter.com/){target="_blank"}. Create an account and you're good to go.
+
+When your first start, you'll be prompted to follow some popular accounts. Go ahead and select a few. Don't worry about which you select, we'll show you how to unfollow accounts later. For now, just pick a few and continue.
+
+The key to making Twitter work for you is to follow accounts that you find interesting. Accounts can be owned either by individuals or admistered by companies. 
 
 Twitter will often recommend accounts for you to follow. 
 Some may be relevant, so go ahead and follow them. 
@@ -16,7 +19,7 @@ For example, Allison Horst's tag is "@allison_horst".
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Comparing scenarios &amp; connecting sample differences to p-values to evidence for population differences. <a href="https://t.co/9qrHVoDS76">pic.twitter.com/9qrHVoDS76</a></p>&mdash; Allison Horst (<mark>@allison_horst</mark>) <a href="https://twitter.com/allison_horst/status/1216411299875192837?ref_src=twsrc%5Etfw">January 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Tags are the basis for interacting with other accounts on twitter. When you want to mention someone in a tweet, a tag is how you'll do it. We'll do some practice tweeting soon!
+Tags are the basis for interacting with other accounts on Twitter. When you want to mention someone in a tweet, a tag is how you'll do it. We'll do some practice tweeting soon!
 
 We've listed a few accounts for you to follow and get some practice at the same time. 
 These are some prominent members of the R community and they post good stuff. 
@@ -84,7 +87,7 @@ First let's go back to those accounts you followed earlier. Your accounts will b
 
 You can also *unfollow* directly from your feed like this.
 
-1. Look at any tweet from the account you wish to unfollow and tap the little drop-down arrow to the right of the accout name. 
+1. Look at any tweet from the account you wish to unfollow and tap the little drop-down arrow to the right of the account name. 
 1. Select Unfollow. 
 
 

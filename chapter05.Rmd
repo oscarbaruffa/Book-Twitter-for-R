@@ -5,11 +5,11 @@ Select the compose tweet button and start typing:
 
 ![](images/t_icon.png)
 
-Note that you can't edit a tweet once it's posted. Don't worry, everyone has forgooven spellign msiatkes in tweets a long time ago :).
+Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgooven spellign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *mistakes
 
 Say anything you want, or if you're stuck for inspiration say "Yay! My first tweet!", or the ever famous, "Hello, world!". 
 
-Now try another tweet, this time tagging people. Say something like "Hey @veerlevanson @oscarb I'm trying this twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
+Now try another tweet, this time tagging people. Say something like "Hey @veerlevanson @oscarb I'm trying this Twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
 
 
 ## Now try use a hashtag 

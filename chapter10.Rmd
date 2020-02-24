@@ -18,3 +18,7 @@ Tweets are usually humourous or related to some sort of activity like repling to
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🥳 partying + 😭 in-tears = <a href="https://t.co/CVTUAysvfM">pic.twitter.com/CVTUAysvfM</a></p>&mdash; Emoji Mashup Bot (@EmojiMashupBot) <a href="https://twitter.com/EmojiMashupBot/status/1152683511863750656?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+### Dead accounts
+You might find you want to follow your favourite band or some person who hasn't tweeted in ages, or never tweeted. This happens and these accounts are sometimes created to be able to claim the Twitter tag which may have some significance to the owner. Or the owner doesn't use the account anymore, but never bothered to delete it. 
+
+

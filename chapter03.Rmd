@@ -54,7 +54,7 @@ This tweet showed in the feed because Mine and Stoeh liked a tweet from Think&Sm
 
 
 ## Promoted tweets
-Advertisments. These have a little "promoted" tweet indicator at the bottom of the post. Anyone can pay to promote their tweets by paying money, but that's not necessary for you to be concerned with.It's possibel to block these accounts just as you would with any other account if you don't like the advertiser. 
+Advertisments. These have a little "promoted" tweet indicator at the bottom of the post. Anyone can pay to promote their tweets by paying money, but that's not necessary for you to be concerned with. It's possible to block these accounts just as you would with any other account if you don't like the advertiser. 
 
 ![](images/promoted.png)
 

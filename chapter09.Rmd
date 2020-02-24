@@ -1,6 +1,6 @@
 # Let's dissect some tweets
 
-Here's a few examplex of tweets you're likely to see.
+Here's a few examples of tweets you're likely to see.
 
 ## Viral tweet
 
@@ -10,7 +10,7 @@ This tweet has gone viral, with lots of retweets, comments and likes.
 
 
 ## Good news
-People love sharing good news on twitter, usually people gettign their PDH or tenure (lots of academics use R)
+People love sharing good news on Twitter, usually people getting their PhD or tenure (lots of academics use R)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Several of my good friends found out they got tenure today and I&#39;m so happy for them and I miss them so much!</p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1110721613375246336?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,7 +29,7 @@ Polls are usally quite fun and often informative.
 
 
 ## Info sharing
-The R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kdis have done to the living room, you name it. Caution, you may end up emaling yourself more resources than you'll ever be able to consume :).
+The R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kids have done to the living room, you name it. Caution, you may end up emaling yourself more resources than you'll ever be able to consume :).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> for data visualisation, check out <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>! Here are ten reasons why Tidy Tuesday is my favourite day of the week ❤️: <a href="https://t.co/oCkaIGJVlQ">https://t.co/oCkaIGJVlQ</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a></p>&mdash; Veerle van Son 👩
 💻 (@veerlevanson) <a href="https://twitter.com/veerlevanson/status/1067053142032945153?ref_src=twsrc%5Etfw">November 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

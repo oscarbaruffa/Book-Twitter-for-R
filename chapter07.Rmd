@@ -7,6 +7,6 @@ Instead of sending your tweet into the world right away, you can schedule it to 
 
 - Sending tweets from inside Rstudio (rtweets / tweetRcode)
 
-- Analyzing twitter data with rtweets
+- Analyzing Twitter data with rtweets
  
  

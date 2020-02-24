@@ -15,6 +15,8 @@ Note: This feature hasn't been rolled out to all accounts yet.
 Twitter is a great source of data for all sorts of analyses. You can use the excellent [rtweet](https://rtweet.info/index.html){target="_blank"} package to access the data. 
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">😍🤓📖 - Just had the pleasure of reading through some of the <a href="https://twitter.com/hashtag/rtweet?src=hash&amp;ref_src=twsrc%5Etfw">#rtweet</a> documentation, and boy is it great!!<br><br>I feel like <a href="https://twitter.com/kearneymw?ref_src=twsrc%5Etfw">@kearneymw</a> has really set the gold standard for this one. He&#39;s even made the external API dependencies approachable. <br><br>Great work!!! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a> <a href="https://t.co/NHOUykBylL">pic.twitter.com/NHOUykBylL</a></p>&mdash; Laura Ellis (@LittleMissData) <a href="https://twitter.com/LittleMissData/status/1231946255468814340?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Sending tweets from inside Rstudio (rtweets / tweetRcode)
 

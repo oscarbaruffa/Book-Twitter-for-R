@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>10 Diving deeper into R and Twitter | Twitter for R programmers</title>
   <meta name="description" content="10 Diving deeper into R and Twitter | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.15 and GitBook 2.6.7" />
 
   <meta property="og:title" content="10 Diving deeper into R and Twitter | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -116,14 +119,15 @@
 <li class="chapter" data-level="10.1" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#curating-the-r-ladies-account"><i class="fa fa-check"></i><b>10.1</b> Curating the R-ladies account</a></li>
 <li class="chapter" data-level="10.2" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#scheduling-tweets"><i class="fa fa-check"></i><b>10.2</b> Scheduling tweets</a></li>
 <li class="chapter" data-level="10.3" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#analyzing-twitter-data-with-rtweets"><i class="fa fa-check"></i><b>10.3</b> Analyzing Twitter data with rtweets</a></li>
-<li class="chapter" data-level="10.4" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#sending-tweets-from-inside-rstudio-rtweets-tweetrcode"><i class="fa fa-check"></i><b>10.4</b> Sending tweets from inside Rstudio (rtweets / tweetRcode)</a></li>
-<li class="chapter" data-level="10.5" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#further-reading"><i class="fa fa-check"></i><b>10.5</b> Further reading</a></li>
+<li class="chapter" data-level="10.4" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#sending-tweets-from-inside-rstudio"><i class="fa fa-check"></i><b>10.4</b> Sending tweets from inside Rstudio</a></li>
 </ul></li>
 <li class="chapter" data-level="11" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html"><i class="fa fa-check"></i><b>11</b> Thanks &amp; Author bio</a><ul>
 <li class="chapter" data-level="11.1" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#thank-you"><i class="fa fa-check"></i><b>11.1</b> Thank you!</a></li>
-<li class="chapter" data-level="11.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#about-the-authors"><i class="fa fa-check"></i><b>11.2</b> About the authors</a></li>
-<li class="chapter" data-level="11.3" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#oscar-baruffa-oscarbaruffa"><i class="fa fa-check"></i><b>11.3</b> Oscar B#aruffa (<span>@OscarBaruffa</span>)</a></li>
-<li class="chapter" data-level="11.4" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#veerle-van-son-veerlevanson"><i class="fa fa-check"></i><b>11.4</b> Veerle #van Son (<span>@veerlevanson</span>)</a></li>
+<li class="chapter" data-level="11.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#further-reading"><i class="fa fa-check"></i><b>11.2</b> Further reading</a></li>
+<li class="chapter" data-level="11.3" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#about-the-authors"><i class="fa fa-check"></i><b>11.3</b> About the authors</a><ul>
+<li class="chapter" data-level="11.3.1" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#oscar-baruffa-oscarbaruffa"><i class="fa fa-check"></i><b>11.3.1</b> Oscar Baruffa (<span>@OscarBaruffa</span>)</a></li>
+<li class="chapter" data-level="11.3.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#veerle-van-son-veerlevanson"><i class="fa fa-check"></i><b>11.3.2</b> Veerle van Son (<span>@veerlevanson</span>)</a></li>
+</ul></li>
 </ul></li>
 <li class="divider"></li>
 <li><center><a href="https://bookdown.org/yihui/bookdown/">
@@ -170,16 +174,9 @@ Published with bookdown</a></center></li>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<div id="sending-tweets-from-inside-rstudio-rtweets-tweetrcode" class="section level2">
-<h2><span class="header-section-number">10.4</span> Sending tweets from inside Rstudio (rtweets / tweetRcode)</h2>
-<p>Oh yes, you send send tweets directly from Rstudio, also using <a href="https://rtweet.info/index.html" target="_blank">rtweet</a></p>
-</div>
-<div id="further-reading" class="section level2">
-<h2><span class="header-section-number">10.5</span> Further reading</h2>
-<ul>
-<li><a href="https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/" target="_blank">Analysing the R Twitterverse</a>, blogpost by <a href="https://twitter.com/perrystephenson" target="_blank">@perrystephenson</a></li>
-<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513" target="_blank">Ten simple rules for getting started on Twitter as a scientist</a>, journal article in PLoS Computational Biology by <a href="https://twitter.com/DrVeronikaCH" target="_blank">@DrVeronikaCH</a>, <a href="https://twitter.com/Felienne" target="_blank">@Felienne</a>, <a href="https://twitter.com/CaAl" target="_blank">@CaAl</a>, <a href="https://twitter.com/nbielczyk_neuro" target="_blank">@nbielczyk_neuro</a> and <a href="https://twitter.com/ionicasmeets" target="_blank">@ionicasmeets</a>.</li>
-</ul>
+<div id="sending-tweets-from-inside-rstudio" class="section level2">
+<h2><span class="header-section-number">10.4</span> Sending tweets from inside Rstudio</h2>
+<p>Using either the <a href="https://rtweet.info/index.html" target="_blank">rtweet</a> or tweetRcode packages, you can send tweets directly from Rstudio.</p>
 
 </div>
 </div>
@@ -194,24 +191,24 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",

@@ -30,11 +30,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 >You can subscribe to Oscar's [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
 
+![](images/welcome_to_rstats_twitter.png) 
+
 The R community is very active on Twitter. 
 You can learn a lot about the language, about new approaches to problems, make friends and even land a job or next contract. 
 It's a real-time pulse of the R community. 
 
-![](images/welcome_to_rstats_twitter.png)
+This website is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="_blank"}.
+
+
 
 Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
 

@@ -15,6 +15,7 @@ People love sharing good news on Twitter, usually people getting their PhD or te
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Several of my good friends found out they got tenure today and I&#39;m so happy for them and I miss them so much!</p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1110721613375246336?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
 ## Help and technical questions
 The R community loves helping out. Here's an example of people jumping in to answer a query. This doesn't _always_ happen, people are busy with their own lives, but it does happen a lot. Use the rstats hashtag to increase exposure of your R-related question. 
 

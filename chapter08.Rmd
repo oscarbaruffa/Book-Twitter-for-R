@@ -10,6 +10,9 @@ Block people easily - there's no need for idiots to fill up your feed!
 
 This is a really handy feature. Specifying mute words keeps any tweets with those _mostly_ out of your feed. When people quote tweet then the mute doesn't pick those up.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">|￣￣￣￣￣￣ |<br>| MUTE |<br>| EARLY | <br>| AND | <br>| OFTEN |<br>| ＿＿＿＿＿__| <br>(\__/) || <br>(•ㅅ•) || <br>/ 　 づ</p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1232161684820811776?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Oscar's current mute list as of 31 January 2020
 
 * Republican

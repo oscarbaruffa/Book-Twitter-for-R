@@ -14,7 +14,10 @@ The hashtag was first used in 2009.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">RT <a href="https://twitter.com/chrisalbon?ref_src=twsrc%5Etfw">@ChrisAlbon</a> <a href="https://twitter.com/drewconway?ref_src=twsrc%5Etfw">@drewconway</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is the official R statistical language hashtag. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (because <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a> doesn&#39;t cut it)</p>&mdash; Michael E. Driscoll (@medriscoll) <a href="https://twitter.com/medriscoll/status/1448139141?ref_src=twsrc%5Etfw">April 3, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I declare <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> the official R statistical prog lang hashtag, pass it on to friends, family and Stata users</p>&mdash; Drew Conway (@drewconway) <a href="https://twitter.com/drewconway/status/1448027809?ref_src=twsrc%5Etfw">April 3, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+  
+  
+  
+The [\@rstatstweet](https://twitter.com/rstatstweet) account retweets any tweets that contain the [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query) hashtag. The good thing about this is that your tweet will get more exposure. A possible downside from following the [\@rstatstweet](https://twitter.com/rstatstweet) account is that you might get overwhelmed by the huge amount of tweets that use this hashtag. 
 
 
 ## #TidyTuesday

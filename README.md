@@ -1,6 +1,8 @@
 # Book-Twitterfor-R
 Guide to Twitter for R programmers
 
+This repo is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/)
+
 
 ## Notes for contributors
 

@@ -13,6 +13,7 @@ output:
           Published with bookdown</a></center></li>
         
 site: "bookdown::bookdown_site"
+github-repo: oscarbaruffa/Book-Twitter-for-R 
 delete_merged_file: true
 css: blockquote.css
 ---

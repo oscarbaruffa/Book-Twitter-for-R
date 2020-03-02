@@ -30,7 +30,7 @@ meta() %>%
   meta_social(
     title = "Twitter for R programmers.",
     url = "http://www.t4rstats.com/",
-    image = "images/welcome_to_rstats_twitter_social.png",
+    image = "images/welcome_to_rstats_twitter.png",
     image_alt = "The cover of the Twitter for R programmers  book",
     og_type = "book",
     og_author = c("Oscar Baruffa", "Veerle van Son"),

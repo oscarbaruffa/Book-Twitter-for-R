@@ -1,11 +1,10 @@
 # Your first tweets
-## Enough of the tour, let's get you tweeting! 
 
-Select the compose tweet button and start typing:
+Enough of the tour, let's get you tweeting! Select the compose tweet button and start typing:
 
 ![](images/t_icon.png)
 
-Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgooven spellign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *mistakes
+Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgiven spelign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *spelling mistakes
 
 Say anything you want, or if you're stuck for inspiration say "Yay! My first tweet!", or the ever famous, "Hello, world!". 
 
@@ -25,5 +24,13 @@ Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it 
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Make sure you capitalize the first letter of each word in hashtags so that screen reader software reads out each word separately. It also makes them <a href="https://twitter.com/hashtag/EasierToRead?src=hash&amp;ref_src=twsrc%5Etfw">#EasierToRead</a>! <a href="https://t.co/ydkRk8eRw0">https://t.co/ydkRk8eRw0</a></p>&mdash; RNIB (@RNIB) <a href="https://twitter.com/RNIB/status/976453467874234369?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Add images, GIFs or emoji
+
+You can add up to four (?) images to a tweet. Each tweet can only contain one GIF. 
+<add picture>
+
+
+## Polls
 
 

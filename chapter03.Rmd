@@ -29,7 +29,7 @@ In the example below, David posted a tweet and Nicole replied to it.
 
 ## Retweets   
 
-Someone you follow re-posts a tweet from someone else a.ka. posts a retweet a.k.a retweets. The retweet can either be with or without their own comment above it. Both options are provided to you when you wish to rewteet
+Someone you follow re-posts a tweet from someone else (also known as a retweet). The retweet can either be with or without their own comment above it. Both options are provided to you when you wish to retweet.
 
 
 Here you can see Mary retweeted Danielle's tweet.
@@ -47,7 +47,7 @@ Here's an example of a quoted retweet. Josiah retweeted Tyler's tweet, and comme
 Someone you follow likes someone else's tweet. That liked-tweet will be displayed in your feed, even if you don't follow the account of the person whose tweet was liked. 
 
 
-This tweet showed in the feed because Mine and Stoeh liked a tweet from Think&Smile.
+This tweet showed in the feed because Mine and Steph liked a tweet from Think&Smile.
 ![](images/liked.png)
 
 

@@ -1,21 +1,18 @@
 # #Hashtags, what are they good for?
 
-Quite a lot, actually. By now hashtags have found their way across multiple social media platforms. 
+Quite a lot, actually. By now hashtags have found their way across multiple social media platforms. On Twitter, selecting any hashtag you see will take you to a list of tweets that feature that tag. It's a way to quickly see a list of tweets about a specific topic. 
 
-Selecting any hashtag you see will take you to a list of tweets that feature that tag.
-
-Some important ones for your R journey are:
+Some important hashtags for your R journey are:
 
 
 ## #RStats
-As a hashtag consisting of just one letter (#R) didn't quite cut it, the hashtag that was settled on was [#rstats](https://twitter.com/search?q=%23rstats){target="_blank"}. It is probably the most widely used hashtag by the R Twitter community. 
-The hashtag was first used in 2009. 
+To indicate that a tweet is about an R-related topic, the #rstats hashtag is used. As a hashtag consisting of just one letter (#R) didn't quite cut it, the hashtag that was settled on was [#rstats](https://twitter.com/search?q=%23rstats){target="_blank"}. First used in 2009, it is now probably the most widely used hashtag by the R Twitter community. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">RT <a href="https://twitter.com/chrisalbon?ref_src=twsrc%5Etfw">@ChrisAlbon</a> <a href="https://twitter.com/drewconway?ref_src=twsrc%5Etfw">@drewconway</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is the official R statistical language hashtag. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (because <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a> doesn&#39;t cut it)</p>&mdash; Michael E. Driscoll (@medriscoll) <a href="https://twitter.com/medriscoll/status/1448139141?ref_src=twsrc%5Etfw">April 3, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I declare <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> the official R statistical prog lang hashtag, pass it on to friends, family and Stata users</p>&mdash; Drew Conway (@drewconway) <a href="https://twitter.com/drewconway/status/1448027809?ref_src=twsrc%5Etfw">April 3, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
-  
+<br/><br/>
   
 The [\@rstatstweet](https://twitter.com/rstatstweet) account retweets any tweets that contain the [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query) hashtag. The good thing about this is that your tweet will get more exposure. A possible downside from following the [\@rstatstweet](https://twitter.com/rstatstweet) account is that you might get overwhelmed by the huge amount of tweets that use this hashtag. 
 

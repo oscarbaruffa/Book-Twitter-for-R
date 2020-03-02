@@ -4,7 +4,7 @@ Here's a few examples of tweets you're likely to see.
 
 ## Viral tweet
 
-This tweet has gone viral, with lots of retweets, comments and likes. 
+Viral tweets have very high engagement, sometimes to the surprise of the author. This tweet has gone viral, with lots of retweets, comments and likes. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">😱 HOW. HAVE. I. NEVER. HEARD. OF. PATCHWORK?!?! <br><br>So easy to combine multiple <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> plots into one image. <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/x8pQ1tGfd8">https://t.co/x8pQ1tGfd8</a> <a href="https://t.co/Bf3uWxxmcU">pic.twitter.com/Bf3uWxxmcU</a></p>&mdash; Laura Ellis (@LittleMissData) <a href="https://twitter.com/LittleMissData/status/1229176433123168256?ref_src=twsrc%5Etfw">February 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

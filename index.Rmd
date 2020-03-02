@@ -31,7 +31,7 @@ meta() %>%
     title = "Twitter for R programmers.",
     url = "http://www.t4rstats.com/",
     image = "http://www.t4rstats.com/images/welcome_to_rstats_twitter.png",
-    image_alt = "The cover of the Twitter for R programmers  book",
+    image_alt = "The cover of the Twitter for R programmers book",
     og_type = "book",
     og_author = c("Oscar Baruffa", "Veerle van Son"),
     twitter_card_type = "summary",
@@ -49,6 +49,8 @@ meta() %>%
 >You can subscribe to Oscar's [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
 
 ![](images/welcome_to_rstats_twitter.png) 
+Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
+
 
 The R community is very active on Twitter. 
 You can learn a lot about the language, about new approaches to problems, make friends and even land a job or next contract. 
@@ -58,18 +60,16 @@ This website is free to use, and is licensed under the [Creative Commons Attribu
 
 
 
-Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
-
 
 ## What you can get out of Twitter
 
-So, you're an R-programmer. What can you gain from becoming active on Twitter?
+So, you're an R-programmer. What can you gain from becoming active on Twitter? This book will talk about the benefits and it will show you how to use Twitter. 
 
-First of all, what is Twitter exactly? It's a [microblogging and social media website](https://en.wikipedia.org/wiki/Twitter) that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life.
+First of all, what is Twitter exactly? It's a [microblogging and social media website](https://en.wikipedia.org/wiki/Twitter) that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (before 2017, this used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life. Many use Twitter for professional reasons. 
 
 ### The friendly R community
-The online R community is known as a friendly bunch! Some even say it's the greatest benefit of using R. 
-It's OK to ask questions, people support each other and are genuinly happy for each other if there is good news to share. 
+The online R community is known as a friendly bunch! Some even say the community is R's greatest asset. The community tries to create a safe space where it's OK to ask questions.  People support each other and are genuinly happy for each other if there is good news to share. 
+
 Connecting to the online #rstats Twitter community can be especially useful if you're the only one using R in your company or institution. 
 <links to some articles would be nice>
 
@@ -78,18 +78,18 @@ Connecting to the online #rstats Twitter community can be especially useful if y
 
 
 ### Keeping up with what's going down
-Twitter is a great source for news. It allows you to keep up with the release of new packages, job opportunities and conferences.  
-Lots of people in the R community have blogs, and they will tweet about it if they published a new blog post. 
+Twitter is a great source for news. It allows you to keep up with the release of new packages, job opportunities and conferences. Lots of people in the R community have their own blogs, and they will tweet about it if they published a new blog post. 
 
-
-But it's not all so serious, there is also room for some lighter content. Joking about the things we all struggle with as R programmers strengthens the sense of community. 
+But Twitter is not only used for the serious stuff. There is lots of room for lighter content as well. Joking and memes about programming in R strengthens the sense of community. 
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodnight columns, goodnight rows,<br>Goodnight kind strangers on Stack Overflow,<br>Goodnight factors, goodnight strings,<br>Goodnight overfitted things,<br>Goodnight humans, goodnight bots,<br>Goodnight inconclusive plots.<br>Goodnight R 😴<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Olga Boichak (@olgarithmic) <a href="https://twitter.com/olgarithmic/status/1057093358374604800?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Tidy Tuesday (more about this later in the book)
 
-### Encouragement
+### Learn from each other
+Tidy Tuesday (more about this later in the book)
+Ask questions
+
 Everybody struggles sometimes, and that's OK. 
 Support network
 
@@ -103,6 +103,4 @@ Maybe it's hard to picture if you haven't used Twitter before, but it's a place 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Person at an event: oh hi, I know you from twitter<br>Me: ...sorry remind me?<br>Person: *says his name, full job title, things we talked about*<br>Me: ...er...?<br>Person: my profile picture is a banana?<br>Me: Banana!!! How are you?! So great to meet in real life!</p>&mdash; Robyn Vinter (@RobynVinter) <a href="https://twitter.com/RobynVinter/status/1225839669201469445?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-Now you know what Twitter can bring you as an R programmer, we'll move on to making a Twitter account and find the first people to follow.
-
-
+Now you know what Twitter can bring you as an R programmer, we'll move on to creating a Twitter account and find the first people to follow.

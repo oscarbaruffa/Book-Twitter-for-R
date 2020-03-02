@@ -28,9 +28,9 @@ meta() %>%
   meta_name("github-repo" = "oscarbaruffa/Book-Twitter-for-R") %>% 
   meta_viewport() %>% 
   meta_social(
-    title = "Twitter for R programmers",
+    title = "Twitter for R programmers.",
     url = "http://www.t4rstats.com/",
-    image = "http://www.t4rstats.com/images/welcome_to_rstats_twitter.png",
+    image = "http://www.t4rstats.com/images/welcome_to_rstats_twitter_social.png",
     image_alt = "The cover of the Twitter for R programmers  book",
     og_type = "book",
     og_author = c("Oscar Baruffa", "Veerle van Son"),

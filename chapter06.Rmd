@@ -9,7 +9,7 @@ Here's how a thread shows up in you feed.
 
 <br>
 
-To make a thread of your own, do this:
+To make a thread of your own, start by composing a tweet as usual, then tap the "+" icon in the lower right. This will add another tweet below it. When you've completed your thread, you can select "Tweet all" and the whole thread will be posted. 
 
 <br>
 

@@ -4,8 +4,6 @@ author: "Oscar Baruffa, Veerle van Son"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::gitbook:
-    includes:
-      in_header: [google_analytics.html]
     config:
       toc:
         before: |  
@@ -66,33 +64,41 @@ So, you're an R-programmer. What can you gain from becoming active on Twitter? T
 
 First of all, what is Twitter exactly? It's a [microblogging and social media website](https://en.wikipedia.org/wiki/Twitter){target="_blank"} that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (before 2017, this used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life. Many use Twitter for professional reasons. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My number one productivity tip is to relabel your Twitter time as “networking.”</p>&mdash; Eric Nelson (@literaryeric) <a href="https://twitter.com/literaryeric/status/1227964274410164224?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### The friendly R community
-The online R community is known as a friendly bunch! Some even say the community is R's greatest asset. The community tries to create a safe space where it's OK to ask questions.  People support each other and are genuinely happy for each other if there is good news to share. 
-
-Connecting to the online #rstats Twitter community can be especially useful if you're the only one using R in your company or institution. 
-<links to some articles would be nice>
+The online R community is known as a friendly bunch! Some even say the community is R's greatest asset. The community tries to create a safe space where it's OK to ask questions.  People support each other and are genuinely happy for each other if there is good news to share. We could all use a little encouragement sometimes! Connecting to the online #rstats Twitter community can be especially useful if you're the only one using R in your company or institution. 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Twitter is a fantastic resource for learning new tips and tricks with <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a>, especially when it comes to <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a>! I love how supportive the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community is. 🤓 <a href="https://t.co/9qMwbXkvEQ">https://t.co/9qMwbXkvEQ</a></p>&mdash; Julian Gan (@JCLGan) <a href="https://twitter.com/JCLGan/status/1229486581620367361?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only way to write good code is to write tons of shitty code first. Feeling shame about bad code stops you from getting to good code</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/589068687669243905?ref_src=twsrc%5Etfw">April 17, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<br/>
+
+But Twitter is not only used for the serious stuff. There is lots of room for lighter content as well. Joking and memes about programming in R strengthens the sense of community. 
+<br/><br/>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodnight columns, goodnight rows,<br>Goodnight kind strangers on Stack Overflow,<br>Goodnight factors, goodnight strings,<br>Goodnight overfitted things,<br>Goodnight humans, goodnight bots,<br>Goodnight inconclusive plots.<br>Goodnight R 😴<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Olga Boichak (@olgarithmic) <a href="https://twitter.com/olgarithmic/status/1057093358374604800?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ### Keeping up with what's going down
 Twitter is a great source for news. It allows you to keep up with the release of new packages, job opportunities and conferences. Lots of people in the R community have their own blogs, and they will tweet about it if they published a new blog post. 
 
-But Twitter is not only used for the serious stuff. There is lots of room for lighter content as well. Joking and memes about programming in R strengthens the sense of community. 
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodnight columns, goodnight rows,<br>Goodnight kind strangers on Stack Overflow,<br>Goodnight factors, goodnight strings,<br>Goodnight overfitted things,<br>Goodnight humans, goodnight bots,<br>Goodnight inconclusive plots.<br>Goodnight R 😴<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Olga Boichak (@olgarithmic) <a href="https://twitter.com/olgarithmic/status/1057093358374604800?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 
 ### Learn from each other
-Tidy Tuesday (more about this later in the book)
-Ask questions
+There are lots of ways to learn from people that you follow on Twitter. For example, if you get stuck, you can ask your questions about your R code on Twitter. The more specific, the better. Chances are that someone else in the R Twitter community has already encountered a similar problem, and can point you in the right direction. And people love to share what they've learned! 
 
-Everybody struggles sometimes, and that's OK. 
-Support network
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only way to write good code is to write tons of shitty code first. Feeling shame about bad code stops you from getting to good code</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/589068687669243905?ref_src=twsrc%5Etfw">April 17, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is what I truly love about the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community. <br><br>Here&#39;s something beautiful. And here&#39;s the code. Now you too can create something beautiful for yourself.</p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1232857097475444738?ref_src=twsrc%5Etfw">February 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Twitter is a fantastic resource for learning new tips and tricks with <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a>, especially when it comes to <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a>! I love how supportive the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community is. 🤓 <a href="https://t.co/9qMwbXkvEQ">https://t.co/9qMwbXkvEQ</a></p>&mdash; Julian Gan (@JCLGan) <a href="https://twitter.com/JCLGan/status/1229486581620367361?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<br/><br/>
+If you are into data visualisation, you can learn a lot from participating in Tidy Tuesday. You can read more about Tidy Tuesday [later in this book](https://bookdown.org/oscar_baruffa/Book-Twitter-for-R/hashtags-what-are-they-good-for.html#tidytuesday), and on the [Tidy Tuesday github page](https://github.com/rfordatascience/tidytuesday). 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instant ramen reviews by <a href="https://twitter.com/theramenrater?ref_src=twsrc%5Etfw">@theramenrater</a> for <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Good luck reading the text, but couldn&#39;t help it, it was too much fun making this plot!<br><br>code: <a href="https://t.co/jWEPqEefT7">https://t.co/jWEPqEefT7</a> <a href="https://t.co/Rmb8Hslci6">pic.twitter.com/Rmb8Hslci6</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1136326761933955072?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ### Making friends on Twitter (it's a real thing)
@@ -100,6 +106,5 @@ Support network
 Maybe it's hard to picture if you haven't used Twitter before, but it's a place where you can actually make a real connection with other people. Sometimes you get to meet the friends you made on Twitter in real life, e.g. at a conference. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Person at an event: oh hi, I know you from twitter<br>Me: ...sorry remind me?<br>Person: *says his name, full job title, things we talked about*<br>Me: ...er...?<br>Person: my profile picture is a banana?<br>Me: Banana!!! How are you?! So great to meet in real life!</p>&mdash; Robyn Vinter (@RobynVinter) <a href="https://twitter.com/RobynVinter/status/1225839669201469445?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 
 Now you know what Twitter can bring you as an R programmer, we'll move on to creating a Twitter account and find the first people to follow.

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Twitter for R programmers</title>
   <meta name="description" content="Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -64,15 +67,6 @@
 <meta name="og:locale" content="en_US"/>
 <meta name="article:author" content="Oscar Baruffa"/>
 <meta name="article:author" content="Veerle van Son"/>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44157871-6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-44157871-6');
-</script>
 
 
 
@@ -119,9 +113,10 @@
 <li class="chapter" data-level="4.3" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#event-hashtags"><i class="fa fa-check"></i><b>4.3</b> Event hashtags</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="your-first-tweets.html"><a href="your-first-tweets.html"><i class="fa fa-check"></i><b>5</b> Your first tweets</a><ul>
-<li class="chapter" data-level="5.1" data-path="your-first-tweets.html"><a href="your-first-tweets.html#now-try-use-a-hashtag"><i class="fa fa-check"></i><b>5.1</b> Now try use a hashtag</a></li>
+<li class="chapter" data-level="5.1" data-path="your-first-tweets.html"><a href="your-first-tweets.html#add-a-hashtag"><i class="fa fa-check"></i><b>5.1</b> Add a hashtag</a></li>
 <li class="chapter" data-level="5.2" data-path="your-first-tweets.html"><a href="your-first-tweets.html#add-images-gifs-or-emoji"><i class="fa fa-check"></i><b>5.2</b> Add images, GIFs or emoji</a></li>
 <li class="chapter" data-level="5.3" data-path="your-first-tweets.html"><a href="your-first-tweets.html#polls"><i class="fa fa-check"></i><b>5.3</b> Polls</a></li>
+<li class="chapter" data-level="5.4" data-path="your-first-tweets.html"><a href="your-first-tweets.html#more-inspiration"><i class="fa fa-check"></i><b>5.4</b> More inspiration</a></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="how-threads-work.html"><a href="how-threads-work.html"><i class="fa fa-check"></i><b>6</b> How threads work</a></li>
 <li class="chapter" data-level="7" data-path="cultivating-your-magic-garden-tips-for-a-great-experience.html"><a href="cultivating-your-magic-garden-tips-for-a-great-experience.html"><i class="fa fa-check"></i><b>7</b> Cultivating your magic garden - tips for a great experience</a><ul>
@@ -141,23 +136,22 @@
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="10" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html"><i class="fa fa-check"></i><b>10</b> Diving deeper into R and Twitter</a><ul>
-<li class="chapter" data-level="10.1" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#curating-the-r-ladies-account"><i class="fa fa-check"></i><b>10.1</b> Curating the R-ladies account</a></li>
+<li class="chapter" data-level="10.1" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#curating-the-wearerladies-account"><i class="fa fa-check"></i><b>10.1</b> Curating the WeAreRLadies account</a></li>
 <li class="chapter" data-level="10.2" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#scheduling-tweets"><i class="fa fa-check"></i><b>10.2</b> Scheduling tweets</a></li>
 <li class="chapter" data-level="10.3" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#analyzing-twitter-data-with-rtweets"><i class="fa fa-check"></i><b>10.3</b> Analyzing Twitter data with rtweets</a></li>
 <li class="chapter" data-level="10.4" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#sending-tweets-from-inside-rstudio"><i class="fa fa-check"></i><b>10.4</b> Sending tweets from inside Rstudio</a></li>
 </ul></li>
 <li class="chapter" data-level="11" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html"><i class="fa fa-check"></i><b>11</b> Thanks &amp; Author bio</a><ul>
 <li class="chapter" data-level="11.1" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#thank-you"><i class="fa fa-check"></i><b>11.1</b> Thank you!</a></li>
-<li class="chapter" data-level="11.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#further-reading"><i class="fa fa-check"></i><b>11.2</b> Further reading</a></li>
+<li class="chapter" data-level="11.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#further-reading"><i class="fa fa-check"></i><b>11.2</b> Further reading</a><ul>
+<li class="chapter" data-level="11.2.1" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#twitter-academia"><i class="fa fa-check"></i><b>11.2.1</b> Twitter &amp; Academia</a></li>
+<li class="chapter" data-level="11.2.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#tidy-tuesday"><i class="fa fa-check"></i><b>11.2.2</b> Tidy Tuesday</a></li>
+<li class="chapter" data-level="11.2.3" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#twitter-analysis"><i class="fa fa-check"></i><b>11.2.3</b> Twitter analysis</a></li>
+</ul></li>
 <li class="chapter" data-level="11.3" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#about-the-authors"><i class="fa fa-check"></i><b>11.3</b> About the authors</a><ul>
 <li class="chapter" data-level="11.3.1" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#oscar-baruffa-oscarbaruffa"><i class="fa fa-check"></i><b>11.3.1</b> Oscar Baruffa (<span>@OscarBaruffa</span>)</a></li>
 <li class="chapter" data-level="11.3.2" data-path="thanks-author-bio.html"><a href="thanks-author-bio.html#veerle-van-son-veerlevanson"><i class="fa fa-check"></i><b>11.3.2</b> Veerle van Son (<span>@veerlevanson</span>)</a></li>
 </ul></li>
-</ul></li>
-<li class="chapter" data-level="12" data-path="links-and-further-reading.html"><a href="links-and-further-reading.html"><i class="fa fa-check"></i><b>12</b> Links and Further reading</a><ul>
-<li class="chapter" data-level="12.1" data-path="links-and-further-reading.html"><a href="links-and-further-reading.html#tidy-tuesday"><i class="fa fa-check"></i><b>12.1</b> Tidy Tuesday</a></li>
-<li class="chapter" data-level="12.2" data-path="links-and-further-reading.html"><a href="links-and-further-reading.html#twitter-academia"><i class="fa fa-check"></i><b>12.2</b> Twitter &amp; Academia</a></li>
-<li class="chapter" data-level="12.3" data-path="links-and-further-reading.html"><a href="links-and-further-reading.html#twitter-analysis"><i class="fa fa-check"></i><b>12.3</b> Twitter analysis</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><center><a href="https://bookdown.org/yihui/bookdown/">
@@ -183,7 +177,7 @@ Published with bookdown</a></center></li>
 <div id="header">
 <h1 class="title">Twitter for R programmers</h1>
 <p class="author"><em>Oscar Baruffa, Veerle van Son</em></p>
-<p class="date"><em>04 March, 2020</em></p>
+<p class="date"><em>04 maart, 2020</em></p>
 </div>
 <div id="the-warmest-of-welcomes-to-you" class="section level1">
 <h1><span class="header-section-number">1</span> The warmest of welcomes to you!</h1>
@@ -197,23 +191,26 @@ It’s a real-time pulse of the R community.</p>
 <h2><span class="header-section-number">1.1</span> What you can get out of Twitter</h2>
 <p>So, you’re an R-programmer. What can you gain from becoming active on Twitter? This book will talk about the benefits and it will show you how to use Twitter.</p>
 <p>First of all, what is Twitter exactly? It’s a <a href="https://en.wikipedia.org/wiki/Twitter" target="_blank">microblogging and social media website</a> that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (before 2017, this used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life. Many use Twitter for professional reasons.</p>
-<div id="the-friendly-r-community" class="section level3">
-<h3><span class="header-section-number">1.1.1</span> The friendly R community</h3>
-<p>The online R community is known as a friendly bunch! Some even say the community is R’s greatest asset. The community tries to create a safe space where it’s OK to ask questions. People support each other and are genuinely happy for each other if there is good news to share.</p>
-<p>Connecting to the online #rstats Twitter community can be especially useful if you’re the only one using R in your company or institution.
-<links to some articles would be nice></p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
-Twitter is a fantastic resource for learning new tips and tricks with <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a>, especially when it comes to <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a>! I love how supportive the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community is. 🤓 <a href="https://t.co/9qMwbXkvEQ">https://t.co/9qMwbXkvEQ</a>
+My number one productivity tip is to relabel your Twitter time as “networking.”
 </p>
-— Julian Gan (<span class="citation">@JCLGan</span>) <a href="https://twitter.com/JCLGan/status/1229486581620367361?ref_src=twsrc%5Etfw">February 17, 2020</a>
+— Eric Nelson (<span class="citation">@literaryeric</span>) <a href="https://twitter.com/literaryeric/status/1227964274410164224?ref_src=twsrc%5Etfw">February 13, 2020</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-<div id="keeping-up-with-whats-going-down" class="section level3">
-<h3><span class="header-section-number">1.1.2</span> Keeping up with what’s going down</h3>
-<p>Twitter is a great source for news. It allows you to keep up with the release of new packages, job opportunities and conferences. Lots of people in the R community have their own blogs, and they will tweet about it if they published a new blog post.</p>
-<p>But Twitter is not only used for the serious stuff. There is lots of room for lighter content as well. Joking and memes about programming in R strengthens the sense of community.</p>
+<div id="the-friendly-r-community" class="section level3">
+<h3><span class="header-section-number">1.1.1</span> The friendly R community</h3>
+<p>The online R community is known as a friendly bunch! Some even say the community is R’s greatest asset. The community tries to create a safe space where it’s OK to ask questions. People support each other and are genuinely happy for each other if there is good news to share. We could all use a little encouragement sometimes! Connecting to the online #rstats Twitter community can be especially useful if you’re the only one using R in your company or institution.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+The only way to write good code is to write tons of shitty code first. Feeling shame about bad code stops you from getting to good code
+</p>
+— Hadley Wickham (<span class="citation">@hadleywickham</span>) <a href="https://twitter.com/hadleywickham/status/589068687669243905?ref_src=twsrc%5Etfw">April 17, 2015</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><br/></p>
+<p>But Twitter is not only used for the serious stuff. There is lots of room for lighter content as well. Joking and memes about programming in R strengthens the sense of community.
+<br/><br/></p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
 Goodnight columns, goodnight rows,<br>Goodnight kind strangers on Stack Overflow,<br>Goodnight factors, goodnight strings,<br>Goodnight overfitted things,<br>Goodnight humans, goodnight bots,<br>Goodnight inconclusive plots.<br>Goodnight R 😴<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>
@@ -222,17 +219,34 @@ Goodnight columns, goodnight rows,<br>Goodnight kind strangers on Stack Overflow
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+<div id="keeping-up-with-whats-going-down" class="section level3">
+<h3><span class="header-section-number">1.1.2</span> Keeping up with what’s going down</h3>
+<p>Twitter is a great source for news. It allows you to keep up with the release of new packages, job opportunities and conferences. Lots of people in the R community have their own blogs, and they will tweet about it if they published a new blog post.</p>
+</div>
 <div id="learn-from-each-other" class="section level3">
 <h3><span class="header-section-number">1.1.3</span> Learn from each other</h3>
-<p>Tidy Tuesday (more about this later in the book)
-Ask questions</p>
-<p>Everybody struggles sometimes, and that’s OK.
-Support network</p>
+<p>There are lots of ways to learn from people that you follow on Twitter. For example, if you get stuck, you can ask your questions about your R code on Twitter. The more specific, the better. Chances are that someone else in the R Twitter community has already encountered a similar problem, and can point you in the right direction. And people love to share what they’ve learned!</p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
-The only way to write good code is to write tons of shitty code first. Feeling shame about bad code stops you from getting to good code
+This is what I truly love about the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community. <br><br>Here's something beautiful. And here's the code. Now you too can create something beautiful for yourself.
 </p>
-— Hadley Wickham (<span class="citation">@hadleywickham</span>) <a href="https://twitter.com/hadleywickham/status/589068687669243905?ref_src=twsrc%5Etfw">April 17, 2015</a>
+— flotsam (<span class="citation">@researchremora</span>) <a href="https://twitter.com/researchremora/status/1232857097475444738?ref_src=twsrc%5Etfw">February 27, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Twitter is a fantastic resource for learning new tips and tricks with <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a>, especially when it comes to <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a>! I love how supportive the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community is. 🤓 <a href="https://t.co/9qMwbXkvEQ">https://t.co/9qMwbXkvEQ</a>
+</p>
+— Julian Gan (<span class="citation">@JCLGan</span>) <a href="https://twitter.com/JCLGan/status/1229486581620367361?ref_src=twsrc%5Etfw">February 17, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><br/><br/>
+If you are into data visualisation, you can learn a lot from participating in Tidy Tuesday. You can read more about Tidy Tuesday <a href="https://bookdown.org/oscar_baruffa/Book-Twitter-for-R/hashtags-what-are-they-good-for.html#tidytuesday">later in this book</a>, and on the <a href="https://github.com/rfordatascience/tidytuesday">Tidy Tuesday github page</a>.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Instant ramen reviews by <a href="https://twitter.com/theramenrater?ref_src=twsrc%5Etfw"><span class="citation">@theramenrater</span></a> for <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Good luck reading the text, but couldn't help it, it was too much fun making this plot!<br><br>code: <a href="https://t.co/jWEPqEefT7">https://t.co/jWEPqEefT7</a> <a href="https://t.co/Rmb8Hslci6">pic.twitter.com/Rmb8Hslci6</a>
+</p>
+— Georgios Karamanis (<span class="citation">@geokaramanis</span>) <a href="https://twitter.com/geokaramanis/status/1136326761933955072?ref_src=twsrc%5Etfw">June 5, 2019</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -262,11 +276,13 @@ Person at an event: oh hi, I know you from twitter<br>Me: …sorry remind me?<br
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -274,12 +290,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -291,6 +306,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

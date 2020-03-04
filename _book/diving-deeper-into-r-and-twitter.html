@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>10 Diving deeper into R and Twitter | Twitter for R programmers</title>
   <meta name="description" content="10 Diving deeper into R and Twitter | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="10 Diving deeper into R and Twitter | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,7 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
 
 
 
@@ -46,24 +47,8 @@
 
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
-<meta name="description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="github-repo" content="oscarbaruffa/Book-Twitter-for-R"/>
-<meta name="twitter:title" content="10 Diving deeper into R and Twitter | Twitter for R programmers."/>
-<meta name="twitter:description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="twitter:url" content="http://www.t4rstats.com/"/>
-<meta name="twitter:image:src" content="http://www.t4rstats.com/images/welcome_to_rstats_twitter.png"/>
-<meta name="twitter:image:alt" content="The cover of the Twitter for R programmers book"/>
-<meta name="twitter:card" content="summary"/>
-<meta name="og:title" content="10 Diving deeper into R and Twitter | Twitter for R programmers."/>
-<meta name="og:description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="og:url" content="http://www.t4rstats.com/"/>
-<meta name="og:image" content="http://www.t4rstats.com/images/welcome_to_rstats_twitter.png"/>
-<meta name="og:image:alt" content="The cover of the Twitter for R programmers book"/>
-<meta name="og:type" content="book"/>
-<meta name="og:locale" content="en_US"/>
-<meta name="article:author" content="Oscar Baruffa"/>
-<meta name="article:author" content="Veerle van Son"/>
+
+
 
 
 
@@ -110,7 +95,7 @@
 <li class="chapter" data-level="4.3" data-path="hashtags-what-are-they-good-for.html"><a href="hashtags-what-are-they-good-for.html#event-hashtags"><i class="fa fa-check"></i><b>4.3</b> Event hashtags</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="your-first-tweets.html"><a href="your-first-tweets.html"><i class="fa fa-check"></i><b>5</b> Your first tweets</a><ul>
-<li class="chapter" data-level="5.1" data-path="your-first-tweets.html"><a href="your-first-tweets.html#now-try-use-a-hashtag"><i class="fa fa-check"></i><b>5.1</b> Now try use a hashtag</a></li>
+<li class="chapter" data-level="5.1" data-path="your-first-tweets.html"><a href="your-first-tweets.html#add-a-hashtag"><i class="fa fa-check"></i><b>5.1</b> Add a hashtag</a></li>
 <li class="chapter" data-level="5.2" data-path="your-first-tweets.html"><a href="your-first-tweets.html#add-images-gifs-or-emoji"><i class="fa fa-check"></i><b>5.2</b> Add images, GIFs or emoji</a></li>
 <li class="chapter" data-level="5.3" data-path="your-first-tweets.html"><a href="your-first-tweets.html#polls"><i class="fa fa-check"></i><b>5.3</b> Polls</a></li>
 </ul></li>
@@ -132,7 +117,7 @@
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="10" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html"><i class="fa fa-check"></i><b>10</b> Diving deeper into R and Twitter</a><ul>
-<li class="chapter" data-level="10.1" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#curating-the-r-ladies-account"><i class="fa fa-check"></i><b>10.1</b> Curating the R-ladies account</a></li>
+<li class="chapter" data-level="10.1" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#curating-the-wearerladies-account"><i class="fa fa-check"></i><b>10.1</b> Curating the WeAreRLadies account</a></li>
 <li class="chapter" data-level="10.2" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#scheduling-tweets"><i class="fa fa-check"></i><b>10.2</b> Scheduling tweets</a></li>
 <li class="chapter" data-level="10.3" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#analyzing-twitter-data-with-rtweets"><i class="fa fa-check"></i><b>10.3</b> Analyzing Twitter data with rtweets</a></li>
 <li class="chapter" data-level="10.4" data-path="diving-deeper-into-r-and-twitter.html"><a href="diving-deeper-into-r-and-twitter.html#sending-tweets-from-inside-rstudio"><i class="fa fa-check"></i><b>10.4</b> Sending tweets from inside Rstudio</a></li>
@@ -169,10 +154,10 @@ Published with bookdown</a></center></li>
 <div id="diving-deeper-into-r-and-twitter" class="section level1">
 <h1><span class="header-section-number">10</span> Diving deeper into R and Twitter</h1>
 <p>Now that you’ve got the hang of Twitter - here are some more advanced things you can do.</p>
-<div id="curating-the-r-ladies-account" class="section level2">
-<h2><span class="header-section-number">10.1</span> Curating the R-ladies account</h2>
-<p><a href="https://twitter.com/WeAreRLadies" target="_blank">WeAreRLadies</a> is a rotating curation Twitter handle that features an awesome R-Lady each week. This account is run by <a href="https://rladies.org/" target="_blank">R-Ladies Global.</a></p>
-<p>More information and the application can be <a href="https://docs.google.com/forms/d/e/1FAIpQLSevtboT8TNjz87qe5HZzuBHuY0aNteaZNF5e2xFQXtSeU0c0w/viewform">found here.</a></p>
+<div id="curating-the-wearerladies-account" class="section level2">
+<h2><span class="header-section-number">10.1</span> Curating the WeAreRLadies account</h2>
+<p><a href="https://twitter.com/WeAreRLadies" target="_blank">@WeAreRLadies</a> is a so-called rotating curation Twitter account: each week, a different awesome R-Lady takes over! They take control of the account for one week, and often tweet about how they use R in their job. The account was created by <a href="https://rladies.org/" target="_blank">R-Ladies Global</a>.</p>
+<p>If you are female or non-binary, you can sign up to tweet from the <a href="https://twitter.com/WeAreRLadies" target="_blank">@WeAreRLadies</a> account for a week! More information and the application form can be <a href="https://docs.google.com/forms/d/e/1FAIpQLSevtboT8TNjz87qe5HZzuBHuY0aNteaZNF5e2xFQXtSeU0c0w/viewform" target="_blank">found here</a>.</p>
 </div>
 <div id="scheduling-tweets" class="section level2">
 <h2><span class="header-section-number">10.2</span> Scheduling tweets</h2>
@@ -207,11 +192,13 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -219,12 +206,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -236,6 +222,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

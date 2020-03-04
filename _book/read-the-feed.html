@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>3 Read the feed | Twitter for R programmers</title>
   <meta name="description" content="3 Read the feed | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="3 Read the feed | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,7 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
 
 
 
@@ -46,24 +47,8 @@
 
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
-<meta name="description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="github-repo" content="oscarbaruffa/Book-Twitter-for-R"/>
-<meta name="twitter:title" content="3 Read the feed | Twitter for R programmers."/>
-<meta name="twitter:description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="twitter:url" content="http://www.t4rstats.com/"/>
-<meta name="twitter:image:src" content="http://www.t4rstats.com/images/welcome_to_rstats_twitter.png"/>
-<meta name="twitter:image:alt" content="The cover of the Twitter for R programmers book"/>
-<meta name="twitter:card" content="summary"/>
-<meta name="og:title" content="3 Read the feed | Twitter for R programmers."/>
-<meta name="og:description" content="This book will show you how to use Twitter as an R programmer."/>
-<meta name="og:url" content="http://www.t4rstats.com/"/>
-<meta name="og:image" content="http://www.t4rstats.com/images/welcome_to_rstats_twitter.png"/>
-<meta name="og:image:alt" content="The cover of the Twitter for R programmers book"/>
-<meta name="og:type" content="book"/>
-<meta name="og:locale" content="en_US"/>
-<meta name="article:author" content="Oscar Baruffa"/>
-<meta name="article:author" content="Veerle van Son"/>
+
+
 
 
 
@@ -168,9 +153,8 @@ Published with bookdown</a></center></li>
             <section class="normal" id="section-">
 <div id="read-the-feed" class="section level1">
 <h1><span class="header-section-number">3</span> Read the feed</h1>
-<p>So now you’re following some folks. Let’s look at your feed.</p>
-<p>From time to time Twitter modifies the algorithms for what shows up in your feed. Here are the main ways your feed is populated.</p>
-<p>P.S. Bear with us here!</p>
+<p>Now you’re following some folks: Let’s take a look at your feed! This is the timeline that shows other people’s tweets and reactions.</p>
+<p>From time to time Twitter modifies the algorithms for what you get to see in your feed. Here are the main ways your feed is populated.</p>
 <div id="someone-you-follow-posts-a-tweet" class="section level2">
 <h2><span class="header-section-number">3.1</span> Someone you follow posts a tweet</h2>
 <p>This is the basic way your feed works. Someone you follow posts a tweet, it shows up in you feed.
@@ -237,11 +221,13 @@ This is seriously so mind boggling. <a href="https://t.co/ICZi5ji2xw">https://t.
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -249,12 +235,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -266,6 +251,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

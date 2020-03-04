@@ -1,9 +1,11 @@
 # Read the feed
 
-Now you're following some folks: Let's take a look at your feed! This is the timeline that shows other people's tweets and reactions. 
+So now you're following some folks. Let's look at your feed. 
 
-From time to time Twitter modifies the algorithms for what you get to see in your feed. Here are the main ways your feed is populated. 
 
+From time to time Twitter modifies the algorithms for what shows up in your feed. Here are the main ways your feed is populated. 
+
+P.S. Bear with us here! 
 
 ## Someone you follow posts a tweet
 

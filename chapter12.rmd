@@ -8,6 +8,10 @@ Thank you for reading our guide and we hope this helps you take part in the wond
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🌹 roses are red<br>🌻 sunflowers are tall<br>💻 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is my favorite language<br>♥️ because of y&#39;all</p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1228317362967007232?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## Further reading
+
+- [Analysing the R Twitterverse](https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/){target="_blank"}, blogpost by [\@perrystephenson](https://twitter.com/perrystephenson){target="_blank"}
+- [Ten simple rules for getting started on Twitter as a scientist]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513){target="_blank"}, journal article in PLoS Computational Biology by [\@DrVeronikaCH](https://twitter.com/DrVeronikaCH){target="_blank"}, [\@Felienne](https://twitter.com/Felienne){target="_blank"}, [\@CaAl](https://twitter.com/CaAl){target="_blank"}, [\@nbielczyk_neuro](https://twitter.com/nbielczyk_neuro){target="_blank"} and [\@ionicasmeets](https://twitter.com/ionicasmeets){target="_blank"}.
 
 
 

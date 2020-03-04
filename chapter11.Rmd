@@ -2,10 +2,10 @@
 
 Now that you've got the hang of Twitter - here are some more advanced things you can do. 
 
-## Curating the WeAreRLadies account
-[\@WeAreRLadies](https://twitter.com/WeAreRLadies){target="_blank"} is a so-called rotating curation Twitter account: each week, a different awesome R-Lady takes over! They take control of the account for one week, and often tweet about how they use R in their job. The account was created by [R-Ladies Global](https://rladies.org/){target="_blank"}.
+## Curating the R-ladies account
+[WeAreRLadies](https://twitter.com/WeAreRLadies){target="_blank"} is a rotating curation Twitter handle that features an awesome R-Lady each week. This account is run by [R-Ladies Global.](https://rladies.org/){target="_blank"} 
 
-If you are female or non-binary, you can sign up to tweet from the [\@WeAreRLadies](https://twitter.com/WeAreRLadies){target="_blank"} account for a week! More information and the application form can be [found here](https://docs.google.com/forms/d/e/1FAIpQLSevtboT8TNjz87qe5HZzuBHuY0aNteaZNF5e2xFQXtSeU0c0w/viewform){target="_blank"}.
+More information and the application can be [found here.](https://docs.google.com/forms/d/e/1FAIpQLSevtboT8TNjz87qe5HZzuBHuY0aNteaZNF5e2xFQXtSeU0c0w/viewform)
 
 
 ## Scheduling tweets

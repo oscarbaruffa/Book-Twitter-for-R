@@ -11,7 +11,7 @@ Now try another tweet, this time tagging people. Say something like "Hey @veerle
 Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgiven spelign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *spelling mistakes
 
 
-## Add a hashtag 
+## Now try use a hashtag 
 
 For your next tweet, post something like "Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet. 
 
@@ -34,8 +34,3 @@ You can add up to four (?) images to a tweet. Each tweet can only contain one GI
 ## Polls
 
 
-## More inspiration
-
-Want more inspiration on what to tweet about? [\@ParissAthena](https://twitter.com/ParissAthena) has some suggestions for you:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What to tweet when starting your tech journey✨<br>-what you’re learning/why<br>-interests in learning<br>-places you’d like to work<br>-questions <br>-application process<br>-interview process<br>-mistakes made/how you learned from them<br>-advice<br>-personal projects<br>Tweet your journey, gain a network💪🏽</p>&mdash; 🃏Pariss Athena⚔️ (@ParissAthena) <a href="https://twitter.com/ParissAthena/status/1096074372375293953?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

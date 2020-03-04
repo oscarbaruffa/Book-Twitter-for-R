@@ -1,13 +1,15 @@
 # Cultivating your magic garden - tips for a great experience
 
-We advise you treat Twitter like a garden that needs to be cultivated. That means you need to do a lot of weeding! Be comfortable with unfollowing people - be a bit ruthless even.
+We advise you treat Twitter like a garden that needs to be cultivated. That means you need to do a lot of weeding!
+
+Be comfortable with unfollowing people - be a bit ruthless even.
 
 Block people easily - there's no need for idiots to fill up your feed :).  
 You don't need to listen to everyone's views. This can be your happy place online and you don't need permission to make it so.
 
 ## Mute words
 
-Specifying mute words keeps any tweets with those words out of your feed. Mute words come in handy when you want to see someone's R code and cat pics, but not their political tweets. Especially if it's politics of a country you don't live in, and therefore you don't find tweets on the topic very relevant. 
+Specifying mute words keeps any tweets with those words out of your feed. Mute words come in handy when you want to see someone's R code and cat pics, but not their political tweets. Especially if it's politics of a country you don't live in, and therefore you don't find them very relevant. 
 
 Tweets containing your mute words might still end up in your feed if someone quote tweets it. The mute doesn't pick those up.
 

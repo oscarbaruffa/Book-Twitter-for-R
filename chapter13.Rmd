@@ -1,0 +1,17 @@
+# Links and Further reading
+
+## Tidy Tuesday
+
+- [Tidy Tuesday github page](https://github.com/rfordatascience/tidytuesday)
+- [tidytuesday.rocks](https://nsgrantham.shinyapps.io/tidytuesdayrocks/), a Shiny app by [\@nealgrantham](https://twitter.com/nsgrantham)
+- [Ten reasons why I love Tidy Tuesday](https://surroundedbydata.netlify.com/post/tidy-tuesday/), a blogpost by [\@veerlevanson](https://twitter.com/veerlevanson)
+
+## Twitter & Academia
+
+- [Ten simple rules for getting started on Twitter as a scientist]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513){target="_blank"}, journal article in PLoS Computational Biology by [\@DrVeronikaCH](https://twitter.com/DrVeronikaCH){target="_blank"}, [\@Felienne](https://twitter.com/Felienne){target="_blank"}, [\@CaAl](https://twitter.com/CaAl){target="_blank"}, [\@nbielczyk_neuro](https://twitter.com/nbielczyk_neuro){target="_blank"} and [\@ionicasmeets](https://twitter.com/ionicasmeets){target="_blank"}.
+
+
+## Twitter analysis
+
+- [Analysing the R Twitterverse](https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/){target="_blank"}, blogpost by [\@perrystephenson](https://twitter.com/perrystephenson){target="_blank"}
+

@@ -3,7 +3,7 @@
 Now that you've got the hang of Twitter - here are some more advanced things you can do. 
 
 ## Curating the R-ladies account
-[WeAreRLadies](https://twitter.com/WeAreRLadies){target="_blank"} is a rotating curation twitter handle that features an awesome R-Lady each week. This account is run by [R-Ladies Global.](https://rladies.org/){target="_blank"} 
+[WeAreRLadies](https://twitter.com/WeAreRLadies){target="_blank"} is a rotating curation Twitter handle that features an awesome R-Lady each week. This account is run by [R-Ladies Global.](https://rladies.org/){target="_blank"} 
 
 More information and the application can be [found here.](https://docs.google.com/forms/d/e/1FAIpQLSevtboT8TNjz87qe5HZzuBHuY0aNteaZNF5e2xFQXtSeU0c0w/viewform)
 

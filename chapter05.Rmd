@@ -4,16 +4,16 @@ Enough of the tour, let's get you tweeting! Select the compose tweet button and 
 
 ![](images/t_icon.png)
 
-Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgiven spelign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *spelling mistakes
-
 Say anything you want, or if you're stuck for inspiration say "Yay! My first tweet!", or the ever famous, "Hello, world!". 
 
 Now try another tweet, this time tagging people. Say something like "Hey @veerlevanson @oscarb I'm trying this Twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
 
+Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgiven spelign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *spelling mistakes
+
 
 ## Now try use a hashtag 
 
-"Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet. 
+For your next tweet, post something like "Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet. 
 
 You'll get the hang of this in no-time.
 

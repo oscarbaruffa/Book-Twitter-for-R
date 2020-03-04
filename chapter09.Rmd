@@ -21,6 +21,11 @@ The R community loves helping out. Here's an example of people jumping in to ans
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can anyone help me understand why there are two definitions of tidy data (see bullet point #3)? <br><br>First is from R for Data Science (<a href="https://t.co/951IgcIaio">https://t.co/951IgcIaio</a>).<br><br>Second is from the tidyr website (<a href="https://t.co/DxGlY6B4kc">https://t.co/DxGlY6B4kc</a>).<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/Odjr092AuY">pic.twitter.com/Odjr092AuY</a></p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1225863868213186560?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br> 
+Here's some helpful advice on how to get the best help for your R problems:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 10 Tips for Getting Help in R: <a href="https://t.co/OxK1iilbsr">https://t.co/OxK1iilbsr</a><br>TL;DR:<br>📖Read the docs<br>🔍Google the error<br>🧠Search smarter not harder<br>🔥Burn it all down<br>🔁Make a reprex<br>🐦Ask Twitter w/ <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>☎️Phone a friend<br>😴Sleep on it<br>💬Ask your q on an online community<br>🙋File an issue on GitHub</p>&mdash; Dr. Sam Tyner (@sctyner) <a href="https://twitter.com/sctyner/status/1206986161434058752?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Poll
 Polls are usally quite fun and often informative. 
@@ -30,7 +35,7 @@ Polls are usally quite fun and often informative.
 
 
 ## Info sharing
-The R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what they kids have done to the living room, you name it. Caution, you may end up emaling yourself more resources than you'll ever be able to consume :).
+The R community loves sharing information. Just about anything goes - new packages, solutions to problems, blog posts, talks, screencasts, what their kids have done to the living room, you name it. Caution, you may end up emailing yourself more resources than you'll ever be able to consume :).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> for data visualisation, check out <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>! Here are ten reasons why Tidy Tuesday is my favourite day of the week ❤️: <a href="https://t.co/oCkaIGJVlQ">https://t.co/oCkaIGJVlQ</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a></p>&mdash; Veerle van Son 👩
 💻 (@veerlevanson) <a href="https://twitter.com/veerlevanson/status/1067053142032945153?ref_src=twsrc%5Etfw">November 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

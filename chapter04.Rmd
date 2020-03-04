@@ -29,7 +29,7 @@ Every week there is a Tidy Tuesday challenge posted. It's a dataset that everyon
 
 ## Event hashtags
 
-One of the best aspects of Twitter is following news about events and conferences. Of of the most popular is RstudioConf. The hashtag [#rstudioconf](https://twitter.com/search?q=%23rstudioconf){target="_blank"} becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of the what's going on during the conference. Tweets often contain take home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
+One of the best aspects of Twitter is following news about events and conferences. Of of the most popular is RStudioConf. The hashtag [#rstudioconf](https://twitter.com/search?q=%23rstudioconf){target="_blank"} becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of what's going on during the conference. Tweets often contain take-home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
 
 Other event hashtags:
 

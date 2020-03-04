@@ -2,7 +2,6 @@
 
 So now you're following some folks. Let's look at your feed. 
 
-<feed gif>
 
 From time to time Twitter modifies the algorithms for what shows up in your feed. Here are the main ways your feed is populated. 
 
@@ -15,11 +14,11 @@ Here, Jesse posted a tweet of her and her cat and it showed in the feed.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jinx&#39;s new favorite thing is to crash my video calls. I&#39;m not even mad. <a href="https://t.co/kpjYVXUWDO">pic.twitter.com/kpjYVXUWDO</a></p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1229274459649052672?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Someone you follow replies to a tweet. 
+## Someone you follow replies to a tweet 
 
 A reply-tweet from someone you follow will show up in your feed. If you follow both the original poster of the tweet, you'll see the both the reply, and the orginal tweet being replied to. 
 
-If a lot of people that you follow reply to a tweet, the the orginal tweet may appear with the thread of replies below it, even if you don't follow that orginal account that made the tweet.
+If a lot of people that you follow reply to a tweet, the the original tweet may appear with the thread of replies below it, even if you don't follow that orginal account that made the tweet.
 
 In the example below, David posted a tweet and Nicole replied to it. 
 

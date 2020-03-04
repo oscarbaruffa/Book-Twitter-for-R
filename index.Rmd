@@ -87,7 +87,8 @@ But Twitter is not only used for the serious stuff. There is lots of room for li
 
 
 ### Learn from each other
-Tidy Tuesday (more about this later in the book)
+If you are into data visualisation, you can learn a lot from participating in [Tidy Tuesday](https://bookdown.org/oscar_baruffa/Book-Twitter-for-R/hashtags-what-are-they-good-for.html#tidytuesday) (more on that later in this book).
+
 Ask questions
 
 Everybody struggles sometimes, and that's OK. 

@@ -44,9 +44,6 @@ meta() %>%
 
 # The warmest of welcomes to you!
 
-> THIS BOOK IS UNDER CONSTRUCTION
-
->You can subscribe to Oscar's [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} to be notified of major updates to the book. 
 
 ![](images/welcome_to_rstats_twitter.png) 
 Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
@@ -65,10 +62,10 @@ This website is free to use, and is licensed under the [Creative Commons Attribu
 
 So, you're an R-programmer. What can you gain from becoming active on Twitter? This book will talk about the benefits and it will show you how to use Twitter. 
 
-First of all, what is Twitter exactly? It's a [microblogging and social media website](https://en.wikipedia.org/wiki/Twitter) that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (before 2017, this used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life. Many use Twitter for professional reasons. 
+First of all, what is Twitter exactly? It's a [microblogging and social media website](https://en.wikipedia.org/wiki/Twitter){target="_blank"} that started in 2006. Messages on this platform are called tweets, and have a maximum length of 280 characters (before 2017, this used to be 140 characters). On Twitter, you base your decision to follow someone on whether you think their content is interesting. Unlike Facebook, Twitter is not based on who you know in real life. Many use Twitter for professional reasons. 
 
 ### The friendly R community
-The online R community is known as a friendly bunch! Some even say the community is R's greatest asset. The community tries to create a safe space where it's OK to ask questions.  People support each other and are genuinly happy for each other if there is good news to share. 
+The online R community is known as a friendly bunch! Some even say the community is R's greatest asset. The community tries to create a safe space where it's OK to ask questions.  People support each other and are genuinely happy for each other if there is good news to share. 
 
 Connecting to the online #rstats Twitter community can be especially useful if you're the only one using R in your company or institution. 
 <links to some articles would be nice>
@@ -99,7 +96,7 @@ Support network
 
 ### Making friends on Twitter (it's a real thing)
 
-Maybe it's hard to picture if you haven't used Twitter before, but it's a place where you can actually make a real connection with other people. Sometimes you get to meet the friends you made on Twitter in real life, eg. at a conference. 
+Maybe it's hard to picture if you haven't used Twitter before, but it's a place where you can actually make a real connection with other people. Sometimes you get to meet the friends you made on Twitter in real life, e.g. at a conference. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Person at an event: oh hi, I know you from twitter<br>Me: ...sorry remind me?<br>Person: *says his name, full job title, things we talked about*<br>Me: ...er...?<br>Person: my profile picture is a banana?<br>Me: Banana!!! How are you?! So great to meet in real life!</p>&mdash; Robyn Vinter (@RobynVinter) <a href="https://twitter.com/RobynVinter/status/1225839669201469445?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

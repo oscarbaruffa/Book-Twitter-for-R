@@ -5,7 +5,7 @@ We'll introduce some of these to you below.
 
 
 ## Benign bots
-Tweets are related to things like the weather forecasts, or perhaps some mundane activity that somewhere, someone, finds useful.
+Tweets are related to things like the weather forecasts, or perhaps some mundane activity that someone, somewhere, finds useful.
 
 This bot is tweeting the weather for Utrecht, Netherlands. 
 

@@ -31,4 +31,4 @@ Sign up to my [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"}
 
 ### Veerle van Son ([\@veerlevanson](https://twitter.com/veerlevanson))
 
-Veerle created her Twitter account in 2012, then barely used it for six years. She only became an active Twitter user in 2018, to participate in #TidyTuesday and to be part of the #rstats Twitter goodness in general. Her data blog can be found at [SurroundedByData.netlify.com](https://SurroundedByData.netlify.com){target="_blank"}. Veerle lives in Den Bosch, the Netherlands and is co-founder of [R-Ladies Den Bosch](https://rladiesdenbosch.netlify.com/). 
+Veerle created her Twitter account in 2012, then barely used it for six years. She only became an active Twitter user in 2018, to participate in #TidyTuesday and to be part of the #rstats Twitter goodness in general. Her data blog can be found at [SurroundedByData.netlify.com](https://SurroundedByData.netlify.com){target="_blank"}. Veerle lives in Den Bosch, the Netherlands and is co-founder of [R-Ladies Den Bosch](https://rladiesdenbosch.netlify.com/){target="_blank"}. 

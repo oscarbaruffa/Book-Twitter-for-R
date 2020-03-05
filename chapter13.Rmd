@@ -2,9 +2,9 @@
 
 ## Tidy Tuesday
 
-- [Tidy Tuesday github page](https://github.com/rfordatascience/tidytuesday)
-- [tidytuesday.rocks](https://nsgrantham.shinyapps.io/tidytuesdayrocks/), a Shiny app by [\@nealgrantham](https://twitter.com/nsgrantham)
-- [Ten reasons why I love Tidy Tuesday](https://surroundedbydata.netlify.com/post/tidy-tuesday/), a blogpost by [\@veerlevanson](https://twitter.com/veerlevanson)
+- [Tidy Tuesday github page](https://github.com/rfordatascience/tidytuesday){target="_blank"}
+- [tidytuesday.rocks](https://nsgrantham.shinyapps.io/tidytuesdayrocks/){target="_blank"}, a Shiny app by [\@nealgrantham](https://twitter.com/nsgrantham){target="_blank"}
+- [Ten reasons why I love Tidy Tuesday](https://surroundedbydata.netlify.com/post/tidy-tuesday/){target="_blank"}, a blogpost by [\@veerlevanson](https://twitter.com/veerlevanson){target="_blank"}
 
 ## Twitter & Academia
 

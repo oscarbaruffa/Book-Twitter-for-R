@@ -16,6 +16,9 @@ We can assume the reader is not completely new to social media and can figure th
 
 It's good to be opinionated on what you think it is good/bad/best to do, but lets keep it directed towards positive action e.g. "do this" is preferences "don't do that".
 
+## Chapter numbers and file names dont match
+We've moved chapters around, so filenames and chapter numbers dont always match.
+
 ## Version control
 
 I (Oscar) am busy learning the basics of github. I suggest you keep Pull Requests short at first so that I can figure out how to merge them. I may end up accidently deleting something so rather don't do a whole lot of work before putting in the first PR. 

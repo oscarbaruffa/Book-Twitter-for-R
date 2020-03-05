@@ -27,11 +27,21 @@ Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it 
 
 ## Add images, GIFs or emoji
 
-You can add up to four (?) images to a tweet. Each tweet can only contain one GIF. 
-<add picture>
+You can add up to four images to a tweet. Each tweet can only contain one GIF. 
 
+When you compose a tweet, you'll find the icons to add these just below the text input area.
+
+![](images/emoji_gif_poll.png)
 
 ## Polls
+
+Conducting polls can be really fun and informative. To creaet a poll, select the poll icon when creating a tweet.
+
+![](images/poll.png)
+
+<br>
+You'll be able to have up to 4 options for people to choose from and you can set how long the poll is open for. 
+
 
 
 ## More inspiration

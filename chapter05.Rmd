@@ -13,11 +13,7 @@ Note that you **can't** edit a tweet once it's posted, unlike many other social 
 
 ## Add a hashtag 
 
-For your next tweet, post something like "Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet. 
-
-You'll get the hang of this in no-time.
-
-We'll dissect some tweets later, but you get the idea.
+For your next tweet, post something like "Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet.
 
 Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. Using camel case (#ThisIsCamelCase) makes hashtags more readable, and ensures screen readers pronounce the hashtag as separate words.
 
@@ -46,6 +42,6 @@ You'll be able to have up to 4 options for people to choose from and you can set
 
 ## More inspiration
 
-Want more inspiration on what to tweet about? [\@ParissAthena](https://twitter.com/ParissAthena) has some suggestions for you:
+That's everything there is to know about HOW to tweet. But WHAT to write in your tweet? You can always observe others to get an idea. And [\@ParissAthena](https://twitter.com/ParissAthena) has some suggestions to get you started:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What to tweet when starting your tech journey✨<br>-what you’re learning/why<br>-interests in learning<br>-places you’d like to work<br>-questions <br>-application process<br>-interview process<br>-mistakes made/how you learned from them<br>-advice<br>-personal projects<br>Tweet your journey, gain a network💪🏽</p>&mdash; 🃏Pariss Athena⚔️ (@ParissAthena) <a href="https://twitter.com/ParissAthena/status/1096074372375293953?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

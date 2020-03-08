@@ -13,6 +13,9 @@ output:
         after: |
           <li><center><a href="https://bookdown.org/yihui/bookdown/">
           Published with bookdown</a></center></li>
+      # edit:
+      #   link: https://github.com/oscarbaruffa/Book-Twitter-for-R/edit/dev/%s
+      #   text: "Edit this chapter"
         
 site: "bookdown::bookdown_site"
 github-repo: oscarbaruffa/Book-Twitter-for-R

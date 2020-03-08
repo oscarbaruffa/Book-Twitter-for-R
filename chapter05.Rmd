@@ -6,14 +6,14 @@ Enough of the tour, let's get you tweeting! Select the compose tweet button and 
 
 Say anything you want, or if you're stuck for inspiration say "Yay! My first tweet!", or the ever famous, "Hello, world!". 
 
-Now try another tweet, this time tagging people. Say something like "Hey @veerlevanson @oscarb I'm trying this Twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
+Now try another tweet, this time tagging people. Say something like "Hey [\@veerlevanson](https://twitter.com/veerlevanson){target="_blank"} [\@OscarBaruffa](https://twitter.com/OscarBaruffa){target="_blank"} I'm trying this Twitter thing out." We'll both get notifications of your tweet, and are eagerly waiting for it ;).  
 
 Note that you **can't** edit a tweet once it's posted, unlike many other social media platforms. Don't worry, everyone has forgiven spelign msiatkes in tweets a long time ago :). You can always add a second tweet with a correction: *spelling mistakes
 
 
 ## Add a hashtag 
 
-For your next tweet, post something like "Wow #rstats is awesome!" Now people browsing this hashtag are more likely to see your tweet.
+For your next tweet, post something like "Wow [#rstats](https://twitter.com/search?q=%23rstats){target="_blank"} is awesome!" Now people browsing this hashtag are more likely to see your tweet.
 
 Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. Using camel case (#ThisIsCamelCase) makes hashtags more readable, and ensures screen readers pronounce the hashtag as separate words.
 
@@ -31,7 +31,7 @@ When you compose a tweet, you'll find the icons to add these just below the text
 
 ## Polls
 
-Conducting polls can be really fun and informative. To creaet a poll, select the poll icon when creating a tweet.
+Conducting polls can be really fun and informative. To create a poll, select the poll icon when creating a tweet.
 
 ![](images/poll.png)
 

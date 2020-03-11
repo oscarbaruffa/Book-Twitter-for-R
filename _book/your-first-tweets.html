@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>6 Your first tweets | Twitter for R programmers</title>
   <meta name="description" content="6 Your first tweets | Twitter for R programmers" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="6 Your first tweets | Twitter for R programmers" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -190,8 +193,6 @@ Published with bookdown</a></center></li>
 <div id="add-a-hashtag" class="section level2">
 <h2><span class="header-section-number">6.1</span> Add a hashtag</h2>
 <p>For your next tweet, post something like “Wow #rstats is awesome!” Now people browsing this hashtag are more likely to see your tweet.</p>
-<p>You’ll get the hang of this in no-time.</p>
-<p>We’ll dissect some tweets later, but you get the idea.</p>
 <p>Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. Using camel case (#ThisIsCamelCase) makes hashtags more readable, and ensures screen readers pronounce the hashtag as separate words.</p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
@@ -216,7 +217,7 @@ You’ll be able to have up to 4 options for people to choose from and you can s
 </div>
 <div id="more-inspiration" class="section level2">
 <h2><span class="header-section-number">6.4</span> More inspiration</h2>
-<p>Want more inspiration on what to tweet about? <a href="https://twitter.com/ParissAthena">@ParissAthena</a> has some suggestions for you:</p>
+<p>That’s everything there is to know about HOW to tweet. But WHAT to write in your tweet? If you’re not sure, you can always first observe what others are doing to get an idea. And <a href="https://twitter.com/ParissAthena" target="_blank">@ParissAthena</a> also has some suggestions to get you started:</p>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
 What to tweet when starting your tech journey✨<br>-what you’re learning/why<br>-interests in learning<br>-places you’d like to work<br>-questions <br>-application process<br>-interview process<br>-mistakes made/how you learned from them<br>-advice<br>-personal projects<br>Tweet your journey, gain a network💪🏽
@@ -238,11 +239,13 @@ What to tweet when starting your tech journey✨<br>-what you’re learning/why<
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -250,12 +253,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -267,6 +269,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

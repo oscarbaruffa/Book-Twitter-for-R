@@ -8,10 +8,12 @@
 
 ## Twitter & Academia
 
+- [Twitter for scientists](https://t4scientists.com/){target="_blank"} by [\@dsquintana](https://twitter.com/dsquintana){target="_blank"}
 - [Ten simple rules for getting started on Twitter as a scientist]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513){target="_blank"}, journal article in PLoS Computational Biology by [\@DrVeronikaCH](https://twitter.com/DrVeronikaCH){target="_blank"}, [\@Felienne](https://twitter.com/Felienne){target="_blank"}, [\@CaAl](https://twitter.com/CaAl){target="_blank"}, [\@nbielczyk_neuro](https://twitter.com/nbielczyk_neuro){target="_blank"} and [\@ionicasmeets](https://twitter.com/ionicasmeets){target="_blank"}.
 
 
 ## Twitter analysis
 
 - [Analysing the R Twitterverse](https://perrystephenson.me/2018/08/11/analysing-the-r-twitterverse/){target="_blank"}, blogpost by [\@perrystephenson](https://twitter.com/perrystephenson){target="_blank"}
+- [How to search Twitter with rtweet and R](https://www.infoworld.com/article/3515712/how-to-search-twitter-with-rtweet-and-r.html){target="_blank"} by [\@sharon000](https://twitter.com/sharon000){target="_blank"}
 

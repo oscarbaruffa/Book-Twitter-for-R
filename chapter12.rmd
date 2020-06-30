@@ -25,7 +25,7 @@ Oscar is still fairly new to R, but what he lacks in experience he makes up for 
 
 See his YouTube Channel [Other People's RStats](https://www.youtube.com/otherpeoplesrstats){target="_blank"}
 
-Sign up to my [newsletter](https://tinyletter.com/OscarBaruffa){target="_blank"} for notifications about new R-related content. 
+Sign up to my [newsletter](https://oscarbaruffa.com/newsletter/){target="_blank"} for notifications about new data-related content. 
 
 
 

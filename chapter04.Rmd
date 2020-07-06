@@ -31,7 +31,7 @@ To easily browse older [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesda
 
 ## Event hashtags
 
-One of the best aspects of Twitter is following news about events and conferences. Of of the most popular is RStudioConf. The hashtag [#rstudioconf](https://twitter.com/search?q=%23rstudioconf){target="_blank"} becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of what's going on during the conference. Tweets often contain take-home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
+One of the best aspects of Twitter is following news about events and conferences. One of the most popular for R users is RStudioConf. The hashtag [#rstudioconf](https://twitter.com/search?q=%23rstudioconf){target="_blank"} becomes really active leading up to and during the event. If you're not attending the conference, following this hashtag gives you an idea of what's going on during the conference. Tweets often contain take-home messages of talks, screenshots, or links to slides. People attending the conference often use Twitter to meet up for coffee, or to get info on sessions that are cancelled.
 
 Other event hashtags:
 

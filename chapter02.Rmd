@@ -50,6 +50,11 @@ There are also great organisational accounts:
 * R4DS online learning community: **[\@R4DScommunity](https://twitter.com/R4DScommunity){target="_blank"}**
 * R-Ladies Global: **[\@RLadiesGlobal](https://twitter.com/RLadiesGlobal){target="_blank"}**
 
+These accounts re-post blogs and are great for discovering new content:
+
+* R-bloggers: **[\@Rbloggers](https://twitter.com/Rbloggers){target="_blank"}**
+* R posts you might have missed!: **[\@icymi_r](https://twitter.com/icymi_r){target="_blank"}**
+
 
 You may start remembering people by their Twitter handle rather than their actual name!
 

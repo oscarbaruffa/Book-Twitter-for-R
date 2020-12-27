@@ -5,7 +5,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::gitbook:
     includes:
-      in_header: [google_analytics.html]
+      in_header: [google_analytics.html, social.html]
     config:
       edit: https://github.com/oscarbaruffa/Book-Twitter-for-R/edit/master/%s
       toc:
@@ -23,24 +23,24 @@ css: blockquote.css
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(metathis)
-meta() %>%
-  meta_description(
-    "This book will show you how to use Twitter as an R programmer."
-  ) %>% 
-  meta_name("github-repo" = "oscarbaruffa/Book-Twitter-for-R") %>% 
-  meta_viewport() %>% 
-  meta_social(
-    title = "Twitter for R programmers.",
-    url = "http://www.t4rstats.com/",
-    image = "http://www.t4rstats.com/images/welcome_to_rstats_twitter.png",
-    image_alt = "The cover of the Twitter for R programmers book",
-    og_type = "book",
-    og_author = c("Oscar Baruffa", "Veerle van Son"),
-    twitter_card_type = "summary",
-    #twitter_creator = "@hadley"
-  )
+# knitr::opts_chunk$set(echo = TRUE)
+# library(metathis)
+# meta() %>%
+#   meta_description(
+#     "This book will show you how to use Twitter as an R programmer."
+#   ) %>% 
+#   meta_name("github-repo" = "oscarbaruffa/Book-Twitter-for-R") %>% 
+#   meta_viewport() %>% 
+#   meta_social(
+#     title = "Twitter for R programmers.",
+#     url = "http://www.t4rstats.com/",
+#     image = "http://www.t4rstats.com/images/welcome_to_rstats_twitter.png",
+#     image_alt = "The cover of the Twitter for R programmers book",
+#     og_type = "book",
+#     og_author = c("Oscar Baruffa", "Veerle van Son"),
+#     twitter_card_type = "summary",
+#     #twitter_creator = "@hadley"
+#   )
 
 ```
 

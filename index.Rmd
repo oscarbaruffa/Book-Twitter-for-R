@@ -49,7 +49,7 @@ css: blockquote.css
 # The warmest of welcomes to you!
 
 
-![](images/welcome_to_rstats_twitter.png) 
+![](images/welcome_to_rstats_twitter_social.png) 
 Artwork by [\@allison_horst](https://twitter.com/allison_horst){target="_blank"}
 
 

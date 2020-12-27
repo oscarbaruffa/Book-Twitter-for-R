@@ -7,15 +7,14 @@ output:
     includes:
       in_header: [google_analytics.html]
     config:
+      edit: https://github.com/oscarbaruffa/Book-Twitter-for-R/edit/master/%s
       toc:
         before: |  
           <br/><center><b><a href="./index.html">&nbsp&nbspTwitter for R programmers</a></b></center></li>
         after: |
           <li><center><a href="https://bookdown.org/yihui/bookdown/">
           Published with bookdown</a></center></li>
-      # edit:
-      #   link: https://github.com/oscarbaruffa/Book-Twitter-for-R/edit/dev/%s
-      #   text: "Edit this chapter"
+      
         
 site: "bookdown::bookdown_site"
 github-repo: oscarbaruffa/Book-Twitter-for-R

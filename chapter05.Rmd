@@ -15,7 +15,7 @@ Note that you **can't** edit a tweet once it's posted, unlike many other social 
 
 For your next tweet, post something like "Wow [#rstats](https://twitter.com/search?q=%23rstats){target="_blank"} is awesome!" Now people browsing this hashtag are more likely to see your tweet.
 
-Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. Using camel case (#ThisIsCamelCase) makes hashtags more readable, and ensures screen readers pronounce the hashtag as separate words.
+Just a little tip, limit the use of hashtags to 3 or less in a tweet to keep it legible. Using camel case (#ThisIsPascalCase) makes hashtags more readable, and ensures screen readers pronounce the hashtag as separate words.
 
 
 

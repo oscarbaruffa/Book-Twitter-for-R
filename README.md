@@ -4,6 +4,11 @@ Guide to Twitter for R programmers
 This repo is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/)
 
 
+## UPDATE
+
+This book is being archived. No further updates are planned. Twitter has undergone significant changes and is officially branded as X.
+
+
 ## Notes for contributors
 
 The aim of this book is to give people a basic introduction to Twitter. 
